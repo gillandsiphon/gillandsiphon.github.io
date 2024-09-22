@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Gill and Siphon</title>
     <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Gill and Siphon</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Sep 2024 18:46:29 -0400</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Scattergories</title>
+      <title>The Art of Crafting a Perfect Salad</title>
       <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Sun, 22 Sep 2024 18:46:29 -0400</pubDate>
       <guid>https://example.org/posts/my-first-post/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Scattergories&lt;/em&gt; is a word association game that&amp;rsquo;s better demonstrated than explained:&lt;/p&gt;
-&lt;p&gt;If you had to think of &lt;em&gt;one&lt;/em&gt; word that starts with &amp;ldquo;C&amp;rdquo; and relates to food, what would it be?&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Did you think of &amp;ldquo;Cabbage&amp;rdquo;?&lt;/li&gt;
-&lt;li&gt;Or did you land on &amp;ldquo;Cauliflower&amp;rdquo;?&lt;/li&gt;
-&lt;li&gt;Or some kind of &amp;ldquo;Chip&amp;rdquo;?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In &lt;em&gt;Scattergories&lt;/em&gt;, players enumerate words that begin with a specified letter, within a category.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Salads are more than just a healthy side dish; they can be a culinary adventure, bursting with flavors, textures, and nutrients. Let&amp;rsquo;s dive into the world of salads and discover how to elevate this simple dish into a gastronomic delight.&lt;/p&gt;
+&lt;h2 id=&#34;the-foundation-greens&#34;&gt;The Foundation: Greens&lt;/h2&gt;
+&lt;p&gt;Every great salad starts with a solid foundation of greens. Here are some popular options:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Romaine&lt;/strong&gt; - Crisp and refreshing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spinach&lt;/strong&gt; - Packed with iron and vitamins&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Arugula&lt;/strong&gt; - Peppery and bold&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mixed greens&lt;/strong&gt; - A variety of flavors and textures&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;building-layers-of-flavor&#34;&gt;Building Layers of Flavor&lt;/h2&gt;
+&lt;h3 id=&#34;vegetables&#34;&gt;Vegetables&lt;/h3&gt;
+&lt;p&gt;Add color and crunch with a variety of vegetables:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -5,4 +5,4 @@ draft = false
 +++
 
 Codenames is a word association game that's better demonstrated than explained:
- ![[example1.png]]
+ ![[/img/example1.png]]

@@ -5,4 +5,4 @@ draft = false
 +++
 
 Codenames is a word association game that's better demonstrated than explained:
- ![Red Team target words "Apple" and "Orange"](/img/example1.png)
+ ![Red Team target words "Apple" and "Orange"](static/img/example1.png)

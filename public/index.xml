@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Gill and Siphon</title>
-    <link>https://example.org/</link>
-    <description>Recent content on Gill and Siphon</description>
+    <title>🐌 Gill and Siphon</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 🐌 Gill and Siphon</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Sep 2024 18:46:29 -0400</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Art of Crafting a Perfect Salad</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sun, 22 Sep 2024 18:46:29 -0400</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;Salads are more than just a healthy side dish; they can be a culinary adventure, bursting with flavors, textures, and nutrients. Let&amp;rsquo;s dive into the world of salads and discover how to elevate this simple dish into a gastronomic delight.&lt;/p&gt;
 &lt;h2 id=&#34;the-foundation-greens&#34;&gt;The Foundation: Greens&lt;/h2&gt;
 &lt;p&gt;Every great salad starts with a solid foundation of greens. Here are some popular options:&lt;/p&gt;

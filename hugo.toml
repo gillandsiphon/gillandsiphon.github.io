@@ -9,6 +9,6 @@ include = "img"
   [params.homeInfoParams]
     Title = "Posts"
 
-[params]
-  [params.analytics]
+[services]
+  [services.googleAnalytics]
     ID = 'G-Y8NWFFJ8X4'

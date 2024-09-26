@@ -1,8 +1,8 @@
-baseURL = "https://example.org/"
+baseURL = "https://gillandsiphon.github.io/"
 languageCode = "en-us"
 title = "🐌 Gill and Siphon"
 theme = "PaperMod"
-
+include = "img"
 
 [params]
     ShowToc= true

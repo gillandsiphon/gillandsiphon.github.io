@@ -4,12 +4,13 @@ date = 2024-09-22T18:46:29-04:00
 draft = false
 +++
 
- ![Red Team target words "Apple" and "Orange"](/img/example1.png)
 
 The purpose of this article is to introduce the party game *Codenames* extremely simply, in order to seed the backdrop for a later discussion on *Codenames* as a means to evaluate model reasoning, planning, and misdirection. 
+
 ### Basic Mechanics
 
 *Codenames* is a word association game played with two competing teams headed by spymasters. !["test"](/img/example22.png)
+
 25 random words are arranged in a 5x5 grid on the board. Each word has a hidden state visible only to the spymasters. 
 !["test2"](/img/example24.png)
 

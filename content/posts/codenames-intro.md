@@ -1,7 +1,7 @@
 +++
 title = 'A Simple Introduction to Codenames'
 date = 2024-09-22T18:46:29-04:00
-weigh = 1
+weight = 1
 draft = false
 +++
 
@@ -10,17 +10,12 @@ The purpose of this article is to introduce the broad strokes of the party game 
 
 ## Basic Mechanics
 
-*Codenames* is a word association game played with two competing teams headed by spymasters.
-
-{{< figure src="/img/example22.png" caption="Codenames game setup with two teams and spymasters" alt="Codenames game board with word cards and players" >}}
-
+*Codenames* is a word association game played with two competing teams headed by spymasters. !["test"](/img/example22.png)
 
 ### Board
 
 25 random words are arranged in a 5x5 grid on the board. Each word has a hidden state visible only to the spymasters. 
-
-{{< figure src="/img/example24.png" caption="Codenames game board with 25 word cards in a 5x5 grid" alt="5x5 grid of word cards for Codenames" >}}
-
+!["test2"](/img/example24.png)
 
 ### Turns
 

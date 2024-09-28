@@ -6,7 +6,7 @@ draft = false
 +++
 
 
-The purpose of this article is to introduce the party game *Codenames* extremely simply, in order to seed the backdrop for a later discussion on *Codenames* as a means to evaluate model reasoning, planning, and misdirection. 
+The purpose of this article is to introduce the broad strokes of the party game *Codenames* as context for later posts.
 
 ## Basic Mechanics
 

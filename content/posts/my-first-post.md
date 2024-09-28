@@ -34,3 +34,9 @@ The spymaster's team responds to the clue by guessing cards on the board they be
 One of the cards on the board has the hidden state "**Assassin**". If the assassin card is chosen, the game immediately ends, and the team that chose the card loses.
 
 !["test5"](/img/example26.png)
+
+### Win Condition
+
+The game ends when all cards of one team's color have been revealed. Turns alternate until the win condition is reached.
+
+!["test6"](/img/example27.png)

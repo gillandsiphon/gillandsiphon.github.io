@@ -11,16 +11,20 @@ The purpose of this article is to introduce the party game *Codenames* extremely
 
 *Codenames* is a word association game played with two competing teams headed by spymasters. !["test"](/img/example22.png)
 
-### Grid
+### Board
 
 25 random words are arranged in a 5x5 grid on the board. Each word has a hidden state visible only to the spymasters. 
 !["test2"](/img/example24.png)
 
-### Turns: Clue-giving and Guessing
+### Turns
+
+#### Clue-Giving
 
 Each turn begins with a spymaster devising a one-word clue to hint their team towards guessing cards of their color on the board. The clue is accompanied with the number of intended cards being hinted.
 !["test3"](/img/example25.png)
-The spymaster's team responds to the clue by guessing cards on the board they believe relate to the clue. 
+The spymaster's team responds to the clue by guessing cards on the board they believe relate to the clue.
+
+#### Guessing
 
 !["test4"](/img/example21.png) Guessing ends if the team selects any card that is not their team's color. 
 

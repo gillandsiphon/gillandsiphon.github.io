@@ -1,7 +1,7 @@
 +++
 title = 'A Simple Introduction to Codenames'
 date = 2024-09-22T18:46:29-04:00
-weight: 1
+weigh = 1
 draft = false
 +++
 

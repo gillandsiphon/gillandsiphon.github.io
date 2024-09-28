@@ -18,8 +18,6 @@ Each turn begins with a spymaster devising a one-word clue to hint their team to
 !["test3"](/img/example25.png)
 The spymaster's team responds to the clue by guessing cards on the board they believe relate to the clue. 
 
-Guessing ends if the team selects any card that is not their team's color. 
-
-!["test5"](/img/example13.png)
+!["test4"](/img/example21.png) Guessing ends if the team selects any card that is not their team's color. 
 
 One of the cards on the board has the hidden state "**Assassin**". If the assassin card is chosen, the game immediately ends, and the team that chose the card loses.

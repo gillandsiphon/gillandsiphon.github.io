@@ -26,7 +26,9 @@ The spymaster's team responds to the clue by guessing cards on the board they be
 
 #### Guessing
 
-!["test4"](/img/example21.png) Guessing ends if the team selects any card that is not their team's color. 
+Guessing ends if the team selects any card that is not their team's color.
+
+!["test4"](/img/example21.png) 
 
 ### Assassin
 

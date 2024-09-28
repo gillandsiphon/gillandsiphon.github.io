@@ -1,5 +1,5 @@
 +++
-title = 'An Introduction to Codenames'
+title = 'A Simple Introduction to Codenames'
 date = 2024-09-22T18:46:29-04:00
 draft = false
 +++
@@ -22,11 +22,10 @@ The purpose of this article is to introduce the party game *Codenames* extremely
 
 Each turn begins with a spymaster devising a one-word clue to hint their team towards guessing cards of their color on the board. The clue is accompanied with the number of intended cards being hinted.
 !["test3"](/img/example25.png)
-The spymaster's team responds to the clue by guessing cards on the board they believe relate to the clue.
 
 #### Guessing
 
-Guessing ends if the team selects any card that is not their team's color.
+The spymaster's team responds to the clue by guessing cards on the board they believe relate to the clue. Guessing ends if the team selects any card that is not their team's color.
 
 !["test4"](/img/example21.png) 
 

@@ -18,7 +18,7 @@ Each turn begins with a spymaster devising a one-word clue to hint their team to
 !["test3"](/img/example25.png)
 The spymaster's team responds to the clue by guessing cards on the board they believe relate to the clue. 
 
-!["test4"](/img/example21.png) Guessing ends if the team selects any card that is not their team's color. 
+Guessing ends if the team selects any card that is not their team's color. 
 
 !["test5"](/img/example13.png)
 

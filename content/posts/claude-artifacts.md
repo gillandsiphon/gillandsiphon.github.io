@@ -21,7 +21,7 @@ In my experience, image editing software for creating diagrams like these works 
 
 Models like Claude act as something between a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) and an immediate feedback loop. I've found they facilitate the brainstorming process, maybe even mostly by forcing the user to articulate their vision, and potentially offer immediate feedback that makes taking a further step actionable.
 
-Anthropic's [Artifacts](https://www.anthropic.com/news/artifacts) really tightens the immediate feedback loop by rendering the, for example, HTML/CSS in a dedicated window alongside the text chat. You see output *as* you brainstorm, and I found it easy to land on a viable design for an instructional diagram working iteratively with Claude.  
+Anthropic's [Artifacts](https://www.anthropic.com/news/artifacts) really tightens the immediate feedback loop by rendering the, for example, HTML/CSS in a dedicated window alongside the text chat. You see output *as* you brainstorm, and I found it promising to land on a viable design for an instructional diagram working iteratively with Claude.  
 
 ### Workflow and Limitations by Example
 
@@ -75,7 +75,6 @@ At this point, I run into problems a few times asking Claude to add the tiles to
 !["scrabble7"](/img/scrabble7.png)
 !["scrabble8"](/img/scrabble8.png)
 !["scrabble9"](/img/scrabble9.png)
-
 
 After several tries with no success, I start a new chat copy-pasting in the most recent working diagram to not hit usage limits due to long context length. I concede and ask for something simpler.
 

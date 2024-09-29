@@ -13,7 +13,7 @@ The post I wrote is [a short primer for the word association game *Codenames*](.
 
 As *Codenames* is a visual game with color-coded cards and hidden information, representing concepts with diagrams is a natural choice. 
 
-{{< figure src="/img/example24.png" caption="Figure 1. An example diagram that was left on the cutting room floor." alt="Codenames game diagram" >}}
+{{< figure src="/img/example13.png" caption="Figure 1. An example diagram that was left on the cutting room floor." alt="Codenames game diagram" >}}
 
 ## Thoughts on Artifacts
 

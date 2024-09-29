@@ -33,10 +33,11 @@ Take a look at the [official rules](https://www.hasbro.com/common/instruct/Scrab
 
 #### Brainstorming
 
-I know I need to communicate the basic premise of the game: players place letter tiles on a shared grid, spelling words to get points. 
+I know I need to communicate the basic premise of the game: players place letter tiles on a shared grid, spelling words to get points. I know that illustrating the grid and tiles is a straightforward visual that should show up early in the explainer. I'll start at this fuzzy idea.
 
 > Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
 
+!["test"](/img/example22.png)
 
 
 

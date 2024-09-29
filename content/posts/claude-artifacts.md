@@ -37,7 +37,7 @@ I know I need to communicate the basic premise of the game: players place letter
 
 > Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
 
-!["test"](/img/example22.png)
+!["scrabble1"](/img/scrabble1.png)
 
 
 

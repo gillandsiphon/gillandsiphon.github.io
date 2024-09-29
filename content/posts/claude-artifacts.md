@@ -47,28 +47,23 @@ Alright, this is interesting. A few things to note:
 
 * The tiles aren't positioned and don't look the way I anticipated, and don't really read as tiles.
 
-I think I have enough hunches to move towards a version two.
-
 > Prompt: Reduce the size of the grid as this is a simplified representation. Remove the premium square colorings. Remove the tiles. Keep the middle square pink and add a black star overlaid and centered on it.
 
 !["scrabble2"](/img/scrabble2.png)
 
-Thoughts:
-
-* I took what felt like a risk asking Claude to do four things at once, but it worked out okay.
+* It felt like a risk asking Claude to do four things at once, but it worked out okay.
 
 * I like the simplified grid dimensions.
-
-I'll make some modifications that I think would make this look better including assigning colors.
 
 > Prompt: Make the grid 9x9 and make the size a little larger. Set the board color to #F1DDC7. Set the pink color to #F59F9F. Replace the inner grid with a single gridline instead of double gridlines to simplify. Make sure the star is centered.
 
 !["scrabble3"](/img/scrabble3.png)
 
-Oops. I may have asked for too much at once. Let's fix this.
+Oops. Let's fix this.
 
 > Please complete the grid. The lines on the right of the board aren't finished. It also looks like the rightmost outer border is thicker than the others.
 
 !["scrabble4"](/img/scrabble4.png)
 
-Alright, not bad.
+> Add 5 square #F1DDC7 tiles arranged in a row underneath the grid. The tiles each display one letter from the letters "R", "S", "T", "L", "E" in black.
+

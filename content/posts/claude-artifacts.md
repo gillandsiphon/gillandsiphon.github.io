@@ -39,7 +39,7 @@ I know I need to communicate the basic premise of the game: players place letter
 
 !["scrabble1"](/img/scrabble1.png)
 
-Alright, this is interesting. A few things to note:
+A few things to note:
 
 * The standard Scrabble grid is 15x15, and Claude tried generating the grid in these dimensions too. However, seeing this, this may be too much complexity for an introductory graphic. I'm just hoping for readers to understand that letters are placed on a grid. 
 
@@ -71,10 +71,8 @@ Oops. Let's fix this.
 
 At this point, I run into problems a few times asking Claude to add the tiles to the right side of the board, rotated and centered with respect to the board.
 
-!["scrabble6"](/img/scrabble6.png)
-!["scrabble7"](/img/scrabble7.png)
-!["scrabble8"](/img/scrabble8.png)
-!["scrabble9"](/img/scrabble9.png)
+!["scrabble6"](/img/scrabble6-9.gif)
+
 
 After several tries with no success, I start a new chat copy-pasting in the most recent working diagram to not hit usage limits due to long context length. I concede and ask for something simpler.
 

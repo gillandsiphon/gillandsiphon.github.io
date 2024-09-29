@@ -69,14 +69,15 @@ Oops. Let's fix this.
 
 !["scrabble5"](/img/scrabble5.png)
 
-At this point, I run into problems a few times asking Claude to add the tiles to the right side of the board, rotated and centered with respect to the board.
+At this point, I run into problems a several times asking Claude to add the tiles to the right side of the board, rotated and centered with respect to the board.
 
 !["scrabble6"](/img/scrabble6-9.gif)
 
 
 After several tries with no success, I start a new chat copy-pasting in the most recent working diagram to not hit usage limits due to long context length. I concede and ask for something simpler.
 
-> Add tiles in a row "A C H T R"  to the top of the board too.  Rotate the tiles 180 degrees as this diagram depicts a top down view of the board.
+> Add tiles in a row "A C H T R"  to the top of the board too.  Rotate the tiles 180 degrees as this diagram depicts a top down view of the board. Make the tiles #d6b998.
+
 
 
 

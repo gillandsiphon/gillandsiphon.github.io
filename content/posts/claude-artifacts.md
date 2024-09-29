@@ -17,8 +17,13 @@ As *Codenames* is a visual game with color-coded cards and hidden information, r
 
 All visuals in the short primer were generated through Claude. For context, I'll display a few examples here (including some that were left on the cutting room floor).
 
+##### Spymaster Clue
 !["test3"](/img/example25.png)
+
+##### Win Condition
 !["test6"](/img/example27.png)
+
+##### Game Flow
 !["test13"](/img/example13.png)
 
 

@@ -31,7 +31,14 @@ To demonstrate a workflow, let's work through a toy example of generating diagra
 
 Take a look at the [official rules](https://www.hasbro.com/common/instruct/Scrabble_(2003).pdf). While a document like this is a comprehensive ruleset, it's too dense to act as a skimmable summary of the game.
 
-### 
+#### Brainstorming
+
+I know I need to communicate the basic premise of the game: players place letter tiles on a shared grid, spelling words to get points. 
+
+> Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
+
+
+
 
 
 

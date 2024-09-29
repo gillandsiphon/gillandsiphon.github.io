@@ -1,5 +1,5 @@
 +++
-title = '✴️ Claude Artifacts for Iterative Diagramming'
+title = 'Claude Artifacts for Iterative Diagramming'
 date = 2024-09-28T18:46:29-04:00
 weight = 2
 draft = false
@@ -13,23 +13,19 @@ The post I wrote is [a short primer for the word association game *Codenames*](.
 
 As *Codenames* is a visual game with color-coded cards and hidden information, representing concepts with diagrams is a natural choice. 
 
-## Examples, To Start
+## Thoughts on Artifacts
 
-All visuals in the [primer](../codenames-primer/) were generated through Claude. Diagrams were generated in HTML and CSS, but were manually saved as pngs.  For context, I'll display two examples here (one that was left on the cutting room floor).
+In my experience, image editing software for creating diagrams like these works best when you've already finished brainstorming. It's possible to make adjustments during the creation process, but as the complexity of the diagrams grow, it becomes harder to pivot towards new ideas and directions. 
 
-#### Win Condition
-!["test6"](/img/example27.png)
+Models like Claude act like something between a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) and an immediate feedback loop. I've found they facilitate the brainstorming process, maybe even mostly by forcing the user to articulate their vision, and potentially offer immediate feedback that makes taking a further step actionable.
 
-#### Game Flow
-!["test13"](/img/example13.png)
+Anthropic's Artifacts really tightens the immediate feedback loop by rendering the HTML/CSS in a dedicated window alongside the text chat. You see output *as* you brainstorm, and I found it easy to land on a viable design for an instructional diagram working iteratively with Claude.  
 
 
 
 
 
 
-## Output
 
-Claude Artifacts make generating and iterating on diagrams mostly delightful. Diagrams were generated in HTML and CSS, but were saved by me as pngs. 
 
 

@@ -15,7 +15,7 @@ As *Codenames* is a visual game with color-coded cards and hidden information, r
 
 ### Examples, To Start
 
-All visuals in the [primer](../codenames-primer/) were generated through Claude. Diagrams were generated in HTML and CSS, but were manually saved as pngs.  For context, I'll display two examples here (one that was left on the cutting room floor).
+All visuals in the [primer]((../codenames-primer/))were generated through Claude. Diagrams were generated in HTML and CSS, but were manually saved as pngs.  For context, I'll display two examples here (one that was left on the cutting room floor).
 
 ##### Win Condition
 !["test6"](/img/example27.png)

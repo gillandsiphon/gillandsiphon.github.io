@@ -78,6 +78,7 @@ After several tries with no success, I start a new chat copy-pasting in the most
 
 > Add tiles in a row "A C H T R"  to the top of the board too.  Rotate the tiles 180 degrees as this diagram depicts a top down view of the board. Make the tiles #d6b998.
 
+!["scrabble11"](/img/scrabble11.png)
 
 
 

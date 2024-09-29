@@ -13,6 +13,8 @@ The post I wrote is [a short primer for the word association game *Codenames*](.
 
 As *Codenames* is a visual game with color-coded cards and hidden information, representing concepts with diagrams is a natural choice. 
 
+{{< figure src="/img/example24.png" caption="Figure 1. An example diagram that was left on the cutting room floor." alt="Codenames game diagram" >}}
+
 ## Thoughts on Artifacts
 
 In my experience, image editing software for creating diagrams like these works best when you've already finished brainstorming. It's possible to make adjustments during the creation process, but as the complexity of the diagrams grows, it becomes harder to pivot towards new ideas and directions. 

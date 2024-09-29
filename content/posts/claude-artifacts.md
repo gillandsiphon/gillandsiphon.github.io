@@ -15,11 +15,11 @@ As *Codenames* is a visual game with color-coded cards and hidden information, r
 
 ## Thoughts on Artifacts
 
-In my experience, image editing software for creating diagrams like these works best when you've already finished brainstorming. It's possible to make adjustments during the creation process, but as the complexity of the diagrams grow, it becomes harder to pivot towards new ideas and directions. 
+In my experience, image editing software for creating diagrams like these works best when you've already finished brainstorming. It's possible to make adjustments during the creation process, but as the complexity of the diagrams grows, it becomes harder to pivot towards new ideas and directions. 
 
 Models like Claude act like something between a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) and an immediate feedback loop. I've found they facilitate the brainstorming process, maybe even mostly by forcing the user to articulate their vision, and potentially offer immediate feedback that makes taking a further step actionable.
 
-Anthropic's Artifacts really tightens the immediate feedback loop by rendering the HTML/CSS in a dedicated window alongside the text chat. You see output *as* you brainstorm, and I found it easy to land on a viable design for an instructional diagram working iteratively with Claude.  
+Anthropic's [Artifacts](https://www.anthropic.com/news/artifacts) really tightens the immediate feedback loop by rendering the, for example, HTML/CSS in a dedicated window alongside the text chat. You see output *as* you brainstorm, and I found it easy to land on a viable design for an instructional diagram working iteratively with Claude.  
 
 
 

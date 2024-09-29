@@ -35,11 +35,40 @@ Take a look at the [official rules](https://www.hasbro.com/common/instruct/Scrab
 
 I know I need to communicate the basic premise of the game: players place letter tiles on a shared grid, spelling words to get points. I know that illustrating the grid and tiles is a straightforward visual that should show up early in the explainer. I'll start at this fuzzy idea.
 
-> Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
+> Prompt: Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
 
 !["scrabble1"](/img/scrabble1.png)
 
+Alright, this is interesting. A few things to note:
 
+* The standard Scrabble grid is 15x15, and Claude tried generating the grid in these dimensions too. However, seeing this, this may be too much complexity for an introductory graphic. I'm just hoping for readers to understand that letters are placed on a grid. 
 
+* Claude attempts to color the premium squares. Performance deteriorates and the colors are not placed correctly.
 
+* The tiles aren't positioned and don't look the way I anticipated, and don't really read as tiles.
 
+I think I have enough hunches to move towards a version two.
+
+> Prompt: Reduce the size of the grid as this is a simplified representation. Remove the premium square colorings. Remove the tiles. Keep the middle square pink and add a black star overlaid and centered on it.
+
+!["scrabble2"](/img/scrabble2.png)
+
+Thoughts:
+
+* I took what felt like a risk asking Claude to do four things at once, but it worked out okay.
+
+* I like the simplified grid dimensions.
+
+I'll make some modifications that I think would make this look better including assigning colors.
+
+> Prompt: Make the grid 9x9 and make the size a little larger. Set the board color to #F1DDC7. Set the pink color to #F59F9F. Replace the inner grid with a single gridline instead of double gridlines to simplify. Make sure the star is centered.
+
+!["scrabble3"](/img/scrabble3.png)
+
+Oops. I may have asked for too much at once. Let's fix this.
+
+> Please complete the grid. The lines on the right of the board aren't finished. It also looks like the rightmost outer border is thicker than the others.
+
+!["scrabble4"](/img/scrabble4.png)
+
+Alright, not bad.

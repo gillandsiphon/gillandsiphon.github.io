@@ -7,7 +7,7 @@ draft = false
 
 ## Working on a Visual Explainer
 
-I recently used Claude to help me write a blog post I've been planning for a while and found iterative diagramming productive and enjoyable.
+I recently used Claude to help me write a blog post I've been planning for a while and found iterative diagramming promising and enjoyable.
 
 The post I wrote is [a short primer for the word association game *Codenames*](../codenames-primer/). I've often found the need for a concise explainer that's separate from a rulebook—the goal is to familiarize someone with what *Codenames* is rather than precisely how to play it.
 
@@ -27,7 +27,7 @@ Anthropic's [Artifacts](https://www.anthropic.com/news/artifacts) really tighten
 
 #### Scrabble
 
-To demonstrate a workflow, let's work through a toy example of generating diagrams for a *Scrabble* explainer. The objective of this document is to help the reader understand what *Scrabble* *is* and touch on the core mechanics. 
+To demonstrate a workflow, let's work through a toy example of generating diagrams for a *Scrabble* explainer. The objective of the explainer would be to help the reader understand what *Scrabble* *is* and touch on the core mechanics. 
 
 Take a look at the [official rules](https://www.hasbro.com/common/instruct/Scrabble_(2003).pdf). While a document like this is a comprehensive ruleset, it's too dense to act as a skimmable summary of the game.
 
@@ -66,4 +66,21 @@ Oops. Let's fix this.
 !["scrabble4"](/img/scrabble4.png)
 
 > Add 5 square #F1DDC7 tiles arranged in a row underneath the grid. The tiles each display one letter from the letters "R", "S", "T", "L", "E" in black.
+
+!["scrabble5"](/img/scrabble5.png)
+
+At this point, I run into problems a few times asking Claude to add the tiles to the right side of the board, rotated and centered with respect to the board.
+
+!["scrabble6"](/img/scrabble6.png)
+!["scrabble7"](/img/scrabble7.png)
+!["scrabble8"](/img/scrabble8.png)
+!["scrabble9"](/img/scrabble9.png)
+
+
+After several tries with no success, I start a new chat copy-pasting in the most recent working diagram to not hit usage limits due to long context length. I concede and ask for something simpler.
+
+> Add tiles in a row "A C H T R"  to the top of the board too.  Rotate the tiles 180 degrees as this diagram depicts a top down view of the board.
+
+
+
 

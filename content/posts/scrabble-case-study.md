@@ -10,7 +10,7 @@ When explaining board games to those unacquainted, I've often found the need for
 
 I recently created one of these [explainers for the word association game *Codenames*](https://gillandsiphon.github.io/posts/codenames-primer/), and found that using Claude's Artifacts made iterative diagramming enjoyable.
 
-I wanted to commentate on this kind of workflow, and so decided to do it again creating an explainer for *Scrabble*. This post documents my workflow in working with Claude 3.5 Sonnet and Artifacts for iterative diagramming. In this way, this post acts as an Appendix to the [*Scrabble* primer](https://gillandsiphon.github.io/posts/scrabble-case-study/) and [Claude Artifacts](https://gillandsiphon.github.io/posts/claude-artifacts/) posts.
+I wanted to commentate on this kind of workflow, and so decided to do it again creating an explainer for *Scrabble*. This post documents my workflow and thought process in working with Claude 3.5 Sonnet and Artifacts for iterative diagramming. It serves as an Appendix to the [*Scrabble* primer](https://gillandsiphon.github.io/posts/scrabble-case-study/) and [Claude Artifacts](https://gillandsiphon.github.io/posts/claude-artifacts/) posts.
 
 
 ## Brainstorming
@@ -97,7 +97,7 @@ I know I need to communicate the basic premise of the game: players place letter
 
 > Remove T L E from the bottom row. Remove drop shadow ONLY from the letters NOT on the board.
 
-After some finagling, player tiles are moved to the board. 
+* After some finagling, player tiles are moved to the board. 
 
 > Now, place the second player's letters "T" and "H" preceding the "E" on the board horizontally. The "E" from "LET" will be used to spell "T H E", with the E being the rightmost element.
 
@@ -109,29 +109,30 @@ After some finagling, player tiles are moved to the board.
 
 > Add an outer glow to the bag in #ffaa00. Add the tiles "A" "G" "M" to the lower row and add "M" "S" to the upper row. Add outer glow to the newly added tiles "A" "G" "M" "M" "S". Empty the bag.
 
-A little bit of finagling again, and an imperfect but reasonable depiction of drawing tiles. Arrows would be nice, but based on previous toying around there's no chance they're going to work here. 
+* A little bit of finagling again, and an imperfect but reasonable depiction of drawing tiles. Arrows would be nice, but based on previous toying around there's no chance they're going to work here. 
 
-A quick note on finagling: rolling back to a previous iteration is made pretty painless by being able to edit previous prompts directly,  examining previous versions in the Artifacts display, and worst case, easily copying code and pasting it into a new chat.
+* A quick note on finagling: rolling back to a previous iteration is made pretty painless by being able to edit previous prompts directly,  examining previous versions in the Artifacts display, and worst case, easily copying code and pasting it into a new chat.
 
 !["scrabble29"](/img/scrabble29.png)
 
 ### Letter Points
 
 >New diagram. Scale up three tiles. Add a small score on the bottom right, make the numbers different per letter.
+
 > White background.
 
 !["scrabble30"](/img/scrabble30.png)
 
-Rolling back to a previous iteration is made pretty painless by being able to edit previous prompts directly,  examining previous versions in the Artifacts display, and worst case, easily copying code and pasting it into a new chat.
+* Rolling back to a previous iteration is made pretty painless by being able to edit previous prompts directly,  examining previous versions in the Artifacts display, and worst case, easily copying code and pasting it into a new chat.
 
 > Remove outer glow from tiles but keep the tiles. Remove outer glow from the bag. Put tiles back in bag, random letters.
 > Add the accurate letter points to the bottom right of the tile for each letter.
 
 !["scrabble31"](/img/scrabble31.png)
 
-I don't blindly expect accuracy here, but it's a nice plus that they were all right.
+* I don't blindly expect accuracy here, but it's a nice plus that they were all right.
 
-A few failed efforts highlighting letters and displaying point totals. I'll concede, edit a previous prompt and try it in a simpler way.
+* A few failed efforts highlighting letters and displaying point totals. I'll concede, edit a previous prompt and try it in a simpler way.
 
 > Outline L E T in the vertical "LET" in blue. In the same blue, add a rounded rectangle with "Point Total: 3" next to the bottom player's tiles.
 
@@ -139,23 +140,23 @@ A few failed efforts highlighting letters and displaying point totals. I'll conc
 
 > remove the bottom point total and the outline on L  and T.
 
-In this case, the diagrams were adequate, but I didn't like the color. To save tokens, I just changed the color in the CSS manually.
+* In this case, the diagrams were adequate, but I didn't like the color. To save tokens, I just changed the color in the CSS manually.
 
 !["scrabble33-34"](/img/scrabble33-34.gif)
 
 
 ### Premium Tiles
 
-To introduce premium tiles, I'll remove unneeded elements.
+* To introduce premium tiles, I'll remove unneeded elements.
 
 > remove the bottom point total and the outline on L  and T.
 > Remove the bag and the tiles in the bag.
 
-I only want to gesture at the fact that there are marked squares on the board that are strategic to land on for point reasons. I'll choose to maintain the red diagonals, but not care too much about other cells aside from some semblance of symmetry and at least two gradations depending on what looks right.
+* I only want to gesture at the fact that there are marked squares on the board that are strategic to land on for point reasons. I'll choose to maintain the red diagonals, but not care too much about other cells aside from some semblance of symmetry and at least two gradations depending on what looks right.
 
 > Color the diagonals of the grid square a slightly lighter red.
 
-A little finagling and:
+* A little finagling and:
 
 > Eight tasteful blue squares make an hexagon shape (spaced out) in the penultimate concentric square of the grid.
 

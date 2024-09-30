@@ -13,15 +13,17 @@ I recently created one of these explainers for the word association game *Codena
 
 I wanted to commentate on this kind of workflow, and so decided to do it again creating an explainer for *Scrabble*. This post documents my workflow in working with Claude 3.5 Sonnet and Artifacts for iterative diagramming. In this way, this post acts as an Appendix to the *Scrabble* primer and *Claude Artifacts* posts.
 
-### Brainstorming
-
-#### An Initial Game Board
+## Brainstorming
 
 I know I need to communicate the basic premise of the game: players place letter tiles on a shared grid, spelling words to get points. I know that illustrating the grid and tiles is a straightforward visual that should show up early in the explainer. I'll start at this fuzzy idea.
+
+### Initial Board
 
 > Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
 
 !["scrabble1"](/img/scrabble1.png)
+
+#### Observations:
 
 * The standard Scrabble grid is 15x15, and Claude tried generating the grid in these dimensions too. However, seeing this, this may be too much complexity for an introductory graphic. I'm just hoping for readers to understand that letters are placed on a grid. 
 
@@ -29,6 +31,7 @@ I know I need to communicate the basic premise of the game: players place letter
 
 * The tiles aren't positioned and don't look the way I anticipated, and don't really read as tiles.
 
+### Simplified Board
 > Reduce the size of the grid as this is a simplified representation. Remove the premium square colorings. Remove the tiles. Keep the middle square pink and add a black star overlaid and centered on it.
 
 !["scrabble2"](/img/scrabble2.png)
@@ -45,8 +48,7 @@ Oops. Let's fix this.
 
 !["scrabble4"](/img/scrabble4.png)
 
-
-#### Tiles
+### Tiles
 
 > Add 5 square #F1DDC7 tiles arranged in a row underneath the grid. The tiles each display one letter from the letters "R", "S", "T", "L", "E" in black.
 
@@ -65,7 +67,7 @@ After several tries with no success, I start a new chat copy-pasting in the most
 
 A good start! I have a feeling a few possible visuals can come from manipulating this base diagram.
 
-#### Letter Pool
+### Letter Pool
 
 Next, I'd like to represent the pouch or letter pool in some way and communicate to the reader that letters are randomly drawn and replenished.
 
@@ -89,7 +91,7 @@ I'll take another risk and see if I can improve the representation of the purse 
 
 !["scrabble18-26"](/img/scrabble18-26.gif)
 
-#### Placing Tiles
+### Placing Tiles
 
 > Move the tiles "L" "E" "T" to vertically spell the word LET on the game board. Add a drop shadow under the tiles. The "E" should be placed on the center tile.
 
@@ -105,7 +107,7 @@ After some finagling, player tiles are moved to the board.
 
 !["scrabble27-28"](/img/scrabble27-28.gif)
 
-#### Drawing Tiles
+### Drawing Tiles
 
 > Add an outer glow to the bag in #ffaa00. Add the tiles "A" "G" "M" to the lower row and add "M" "S" to the upper row. Add outer glow to the newly added tiles "A" "G" "M" "M" "S". Empty the bag.
 
@@ -115,7 +117,7 @@ A quick note on finagling: rolling back to a previous iteration is made pretty p
 
 !["scrabble29"](/img/scrabble29.png)
 
-#### Letter Points
+### Letter Points
 
 >New diagram. Scale up three tiles. Add a small score on the bottom right, make the numbers different per letter.
 > White background.
@@ -144,7 +146,7 @@ In this case, the diagrams were adequate, but I didn't like the color. To save t
 !["scrabble33-34"](/img/scrabble33-34.gif)
 
 
-#### Premium Tiles
+### Premium Tiles
 
 To introduce premium tiles, I'll remove unneeded elements.
 

@@ -66,7 +66,7 @@ Oops. Let's fix this.
 
 !["scrabble5"](/img/scrabble5.png)
 
-At this point, I run into problems a several times asking Claude to add the tiles to the right side of the board, rotated and centered with respect to the board.
+At this point, I run into problems several times asking Claude to add the tiles to the right side of the board, rotated and centered with respect to the board.
 
 !["scrabble6"](/img/scrabble6-9.gif)
 
@@ -129,9 +129,20 @@ A quick note on finagling: rolling back to a previous iteration is made pretty p
 
 !["scrabble29"](/img/scrabble29.png)
 
+#### Letter Points
+
+>New diagram. Scale up three tiles. Add a small score on the bottom right, make the numbers different per letter.
+> White background.
+
+!["scrabble30"](/img/scrabble30.png)
+
+
+
 #### Premium Tiles
 
+A quick note on finagling: rolling back to a previous iteration is made pretty painless by being able to edit previous prompts directly,  examining previous versions in the Artifacts display, and worst case, easily copying code and pasting it into a new chat.
 
+After familiarizing readers with drawing tiles and placing letters to make words, I want to roll back to the empty board state and introduce premium tiles.
 
 
 

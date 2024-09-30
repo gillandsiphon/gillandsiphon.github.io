@@ -65,3 +65,6 @@ Some of the cells on the board grid are colored. These cells have properties suc
 
 The game ends when all tiles have been used, or no further plays are possible.
 
+### Official Rules
+
+This introduction has covered a birds-eye view of *Scrabble*, but for comprehensive rules, check out the [official rules](https://www.hasbro.com/common/instruct/Scrabble_(2003).pdf).

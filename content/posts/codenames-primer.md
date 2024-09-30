@@ -41,3 +41,7 @@ One of the cards on the board has the hidden state "**Assassin**". If the assass
 The game ends when all cards of one team's color have been revealed. Turns alternate until the win condition is reached.
 
 !["test6"](/img/example27.png)
+
+### Official Rules
+
+This introduction has covered a birds-eye view of *Codenames*, but for comprehensive rules, check out the [official rules](https://czechgames.com/files/rules/codenames-rules-en.pdf).

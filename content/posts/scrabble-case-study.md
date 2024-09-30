@@ -1,8 +1,17 @@
-## Scrabble
++++
+title = 'Iterative Diagrams: A Scrabble Case Study'
+date = 2024-09-30T18:46:29-04:00
+weight = 1
+draft = false
++++
 
-To demonstrate a workflow, let's work through a toy example of generating diagrams for a *Scrabble* explainer. The objective of the explainer would be to help the reader understand what *Scrabble* *is* and touch on the core mechanics. 
+## Explainers
 
-Take a look at the [official rules](https://www.hasbro.com/common/instruct/Scrabble_(2003).pdf). While a document like this is a comprehensive ruleset, it's too dense to act as a skimmable summary of the game.
+When explaining board games to those unacquainted, I've often found the need for concise explainers separate from a rulebook. The goal is to broadly familiarize someone with what the game is rather than precisely how to play it.
+
+I recently created one of these explainers for the word association game *Codenames*, and found that using Claude's Artifacts made iterative diagramming enjoyable.
+
+I wanted to commentate on this kind of workflow, and so decided to do it again creating an explainer for *Scrabble*. This post documents my workflow in working with Claude 3.5 Sonnet and Artifacts for iterative diagramming. In this way, this post acts as an Appendix to the *Scrabble* primer and *Claude Artifacts* posts.
 
 ### Brainstorming
 

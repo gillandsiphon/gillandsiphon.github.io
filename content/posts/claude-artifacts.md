@@ -105,6 +105,10 @@ I notice that the right and bottom borders are either too thick or have redundan
 
 It didn't work. I'm okay to move on from an earlier checkpoint. 
 
+I'll take another risk and see if I can improve the representation of the purse emoji as the letter pool. 
+
+>Add a smaller letter tile overlaid over the purse emoji.
+
 
 
 

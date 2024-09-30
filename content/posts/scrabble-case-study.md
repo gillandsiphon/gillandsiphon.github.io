@@ -13,7 +13,7 @@ I recently created one of these [explainers for the word association game *Coden
 I wanted to commentate on this kind of workflow, and so decided to do it again creating an explainer for *Scrabble*. This post documents my workflow in working with Claude 3.5 Sonnet and Artifacts for iterative diagramming. In this way, this post acts as an Appendix to the [*Scrabble* primer](https://gillandsiphon.github.io/posts/scrabble-case-study/) and [Claude Artifacts](https://gillandsiphon.github.io/posts/claude-artifacts/) posts.
 
 
-# Iterative Diagramming: Scrabble Case Study
+# Diagramming a Scrabble Explainer
 
 ## Brainstorming
 

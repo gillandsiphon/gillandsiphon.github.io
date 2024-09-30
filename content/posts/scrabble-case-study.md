@@ -21,7 +21,7 @@ I know I need to communicate the basic premise of the game: players place letter
 
 ### Initial Board
 
-> Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
+`Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.`
 
 !["scrabble1"](/img/scrabble1.png)
 

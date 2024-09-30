@@ -158,18 +158,24 @@ In this case, the diagrams were adequate, but I didn't like the color. To save t
 !["scrabble33-34"](/img/scrabble33-34.gif)
 
 
-
-
-
-
-
-
-
 #### Premium Tiles
 
-A quick note on finagling: rolling back to a previous iteration is made pretty painless by being able to edit previous prompts directly,  examining previous versions in the Artifacts display, and worst case, easily copying code and pasting it into a new chat.
+To introduce premium tiles, I'll remove unneeded elements.
 
-After familiarizing readers with drawing tiles and placing letters to make words, I want to roll back to the empty board state and introduce premium tiles.
+> remove the bottom point total and the outline on L  and T.
+> Remove the bag and the tiles in the bag.
+
+I only want to gesture at the fact that there are marked squares on the board that are strategic to land on for point reasons. I'll choose to maintain the red diagonals, but not care too much about other cells aside from some semblance of symmetry and at least two gradations depending on what looks right.
+
+> Color the diagonals of the grid square a slightly lighter red.
+
+A little finagling and:
+
+> Eight tasteful blue squares make an hexagon shape (spaced out) in the penultimate concentric square of the grid.
+
+!["scrabble35"](/img/scrabble35.png)
+
+
 
 
 

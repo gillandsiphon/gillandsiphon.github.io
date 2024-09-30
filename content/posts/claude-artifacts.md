@@ -103,7 +103,7 @@ I notice that the right and bottom borders are either too thick or have redundan
 
 It didn't work. I'm okay to move on from an earlier checkpoint. 
 
-I'll take another risk and see if I can improve the representation of the purse emoji as the letter pool in a few prompts. Making minute changes starts to feel inefficient as it's definitely faster to do this kind of thing in an image editor or even manipulating the CSS, but it's mostly painless and quick.
+I'll take another risk and see if I can improve the representation of the purse emoji as the letter pool in a few prompts. Making minute changes starts to feel cumbersome as the length of the artifact grows.
 
 !["scrabble18-25"](/img/scrabble18-25.gif)
 

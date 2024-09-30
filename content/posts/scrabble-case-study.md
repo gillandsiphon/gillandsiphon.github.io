@@ -19,9 +19,13 @@ I know I need to communicate the basic premise of the game: players place letter
 
 ### Initial Board
 
+#### Prompt:
+
 > Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
 
 !["scrabble1"](/img/scrabble1.png)
+
+#### Observations:
 
 * The standard Scrabble grid is 15x15, and Claude tried generating the grid in these dimensions too. However, seeing this, this may be too much complexity for an introductory graphic. I'm just hoping for readers to understand that letters are placed on a grid. 
 

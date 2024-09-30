@@ -6,10 +6,9 @@ include = "img"
 
 [params]
     ShowToc= true
-    ShowBreadCrumbs= true
-    ShowPostNavLinks= true
-    defaultTheme= light
-    disableThemeToggle= true
+    ShowBreadCrumbs = true
+    ShowPostNavLinks = true
+    disableThemeToggle = true
 
 [services]
   [services.googleAnalytics]

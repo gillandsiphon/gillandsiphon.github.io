@@ -1,6 +1,6 @@
 +++
 title = 'A Simple Introduction to Scrabble'
-date = 2024-09-30T18:46:29-04:00
+date = 2024-09-30T18:46:30-04:00
 draft = false
 +++
 

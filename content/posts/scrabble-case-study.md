@@ -4,13 +4,16 @@ date = 2024-09-29T18:46:29-04:00
 draft = false
 +++
 
-## Explainers
+## Motivation
 
 When explaining board games to those unacquainted, I've often found the need for concise explainers separate from a rulebook. The goal is to broadly familiarize someone with what the game is rather than precisely how to play it.
 
-I recently created one of these explainers for the word association game *Codenames*, and found that using Claude's Artifacts made iterative diagramming enjoyable.
+I recently created one of these [explainers for the word association game *Codenames*](https://gillandsiphon.github.io/posts/codenames-primer/), and found that using Claude's Artifacts made iterative diagramming enjoyable.
 
-I wanted to commentate on this kind of workflow, and so decided to do it again creating an explainer for *Scrabble*. This post documents my workflow in working with Claude 3.5 Sonnet and Artifacts for iterative diagramming. In this way, this post acts as an Appendix to the *Scrabble* primer and *Claude Artifacts* posts.
+I wanted to commentate on this kind of workflow, and so decided to do it again creating an explainer for *Scrabble*. This post documents my workflow in working with Claude 3.5 Sonnet and Artifacts for iterative diagramming. In this way, this post acts as an Appendix to the [*Scrabble* primer](https://gillandsiphon.github.io/posts/scrabble-case-study/) and [Claude Artifacts](https://gillandsiphon.github.io/posts/claude-artifacts/) posts.
+
+
+# Iterative Diagramming: Scrabble Case Study
 
 ## Brainstorming
 

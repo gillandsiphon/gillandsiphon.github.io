@@ -17,16 +17,14 @@ The board displays a grid with a marked center position. Players are distributed
 
 !["scrabble26"](/img/scrabble26.png)
 
-### Wordbuilding
-
-#### First Turn
+### First Turn
 
 The first turn begins with a player forming a word from their letter tiles. The first word must be placed horizontally or vertically such that one of the tiles takes the center position.
 
 !["scrabble27"](/img/scrabble27.png)
 
 
-#### Subsequent Turns
+### Subsequent Turns
 
 Players then alternate turns, building words by laying their own tiles with existing board tiles, horizontally or vertically.
 
@@ -35,7 +33,7 @@ Players then alternate turns, building words by laying their own tiles with exis
 
 [crossword analogy]
 
-#### Drawing More Tiles
+### Drawing More Tiles
 
 Turns end by players redrawing tiles to replenish their hand.
 

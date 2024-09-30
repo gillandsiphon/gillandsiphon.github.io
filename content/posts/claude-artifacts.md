@@ -136,6 +136,33 @@ A quick note on finagling: rolling back to a previous iteration is made pretty p
 
 !["scrabble30"](/img/scrabble30.png)
 
+Rolling back to a previous iteration is made pretty painless by being able to edit previous prompts directly,  examining previous versions in the Artifacts display, and worst case, easily copying code and pasting it into a new chat.
+
+> Remove outer glow from tiles but keep the tiles. Remove outer glow from the bag. Put tiles back in bag, random letters.
+> Add the accurate letter points to the bottom right of the tile for each letter.
+
+!["scrabble31"](/img/scrabble31.png)
+
+I don't blindly expect accuracy here, but it's a nice plus that they were all right.
+
+A few failed efforts highlighting letters and displaying point totals. I'll concede, edit a previous prompt and try it in a simpler way.
+
+> Outline L E T in the vertical "LET" in blue. In the same blue, add a rounded rectangle with "Point Total: 3" next to the bottom player's tiles.
+
+> Do the same for T H E for the upper player and display the point total (upside down so it is visible to them).
+
+> remove the bottom point total and the outline on L  and T.
+
+In this case, the diagrams were adequate, but I didn't like the color. To save tokens, I just changed the color in the CSS manually.
+
+!["scrabble33-34"](/img/scrabble33-34.gif)
+
+
+
+
+
+
+
 
 
 #### Premium Tiles

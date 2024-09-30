@@ -7,7 +7,7 @@ draft = false
 
 ## Working on a Visual Explainer
 
-I recently used Claude to help me write a blog post I've been planning for a while and found iterative diagramming promising and enjoyable.
+I recently used Claude to help me write a blog post I've been planning for a while and found iterative diagramming enjoyable.
 
 The post I wrote is [a short primer for the word association game *Codenames*](../codenames-primer/). I've often found the need for a concise explainer that's separate from a rulebook—the goal is to familiarize someone with what *Codenames* is rather than precisely how to play it.
 
@@ -16,9 +16,7 @@ As *Codenames* is a visual game with color-coded cards and hidden information, r
 {{< figure src="/img/example13.png" caption="Figure 1. An example diagram that was left on the cutting room floor." alt="Codenames game diagram" >}}
 
 ## Thoughts on Artifacts
-
-In my experience, image editing software for creating diagrams like these works best when you've finished brainstorming and have a clear vision. It's possible to brainstorm and make adjustments during the creation process, but as the complexity of the diagrams grows, it becomes costly to try out new ideas. 
-
+ 
 Models like Claude act as something between a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) and an immediate feedback loop. I've found they facilitate the brainstorming process, maybe even mostly by forcing the user to articulate their vision, and potentially offer immediate feedback that makes taking a further step actionable.
 
 Anthropic's [Artifacts](https://www.anthropic.com/news/artifacts) really tightens the immediate feedback loop by rendering the, for example, HTML/CSS in a dedicated window alongside the text chat. You see output *as* you brainstorm, and I found it promising to land on a viable design for an instructional diagram working iteratively with Claude.  
@@ -105,8 +103,7 @@ I notice that the right and bottom borders are either too thick or have redundan
 
 It didn't work. I'm okay to move on from an earlier checkpoint. 
 
-I'll take another risk and see if I can improve the representation of the purse emoji as the letter pool in a few prompts. 
-
+I'll take another risk and see if I can improve the representation of the purse emoji as the letter pool in a few prompts. Making minute changes starts to feel inefficient as it's definitely faster to do this kind of thing in an image editor or even manipulating the CSS, but it's mostly painless and quick.
 
 !["scrabble18-25"](/img/scrabble18-25.gif)
 

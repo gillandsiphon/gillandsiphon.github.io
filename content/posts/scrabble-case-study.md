@@ -23,8 +23,6 @@ I know I need to communicate the basic premise of the game: players place letter
 
 !["scrabble1"](/img/scrabble1.png)
 
-#### Observations:
-
 * The standard Scrabble grid is 15x15, and Claude tried generating the grid in these dimensions too. However, seeing this, this may be too much complexity for an introductory graphic. I'm just hoping for readers to understand that letters are placed on a grid. 
 
 * Claude attempts to color the premium squares. Performance deteriorates and the colors are not placed correctly.
@@ -36,13 +34,13 @@ I know I need to communicate the basic premise of the game: players place letter
 
 !["scrabble2"](/img/scrabble2.png)
 
-It felt like a risk asking Claude to do four things at once, but it worked out okay. I like the simplified grid dimensions.
+* It felt like a risk asking Claude to do four things at once, but it worked out okay. I like the simplified grid dimensions.
 
 > Make the grid 9x9 and make the size a little larger. Set the board color to #F1DDC7. Set the pink color to #F59F9F. Replace the inner grid with a single gridline instead of double gridlines to simplify. Make sure the star is centered.
 
 !["scrabble3"](/img/scrabble3.png)
 
-Oops. Let's fix this.
+* Oops. Let's fix this.
 
 > Please complete the grid. The lines on the right of the board aren't finished. It also looks like the rightmost outer border is thicker than the others.
 
@@ -54,24 +52,24 @@ Oops. Let's fix this.
 
 !["scrabble5"](/img/scrabble5.png)
 
-At this point, I run into problems several times asking Claude to add the tiles to the right side of the board, rotated and centered with respect to the board.
+* At this point, I run into problems several times asking Claude to add the tiles to the right side of the board, rotated and centered with respect to the board.
 
 !["scrabble6"](/img/scrabble6-9.gif)
 
 
-After several tries with no success, I start a new chat copy-pasting in the most recent working diagram to not hit usage limits due to long context length. I concede and ask for something simpler.
+* After several tries with no success, I start a new chat copy-pasting in the most recent working diagram to not hit usage limits due to long context length. I concede and ask for something simpler.
 
 > Add tiles in a row "A C H T R"  to the top of the board too.  Rotate the tiles 180 degrees as this diagram depicts a top down view of the board. Make the tiles #d6b998.
 
 !["scrabble11"](/img/scrabble11.png)
 
-A good start! I have a feeling a few possible visuals can come from manipulating this base diagram.
+* A good start! I have a feeling a few possible visuals can come from manipulating this base diagram.
 
 ### Letter Pool
 
-Next, I'd like to represent the pouch or letter pool in some way and communicate to the reader that letters are randomly drawn and replenished.
+* Next, I'd like to represent the pouch or letter pool in some way and communicate to the reader that letters are randomly drawn and replenished.
 
-A few ideas come to mind, some more doable in HTML and CSS than others, but the simplest seems to be rendering a bag or sack emoji to start. Using Lilian Weng's [emojisearch.app](https://www.emojisearch.app/), I find that the 'purse' emoji could do the job.
+* A few ideas come to mind, some more doable in HTML and CSS than others, but the simplest seems to be rendering a bag or sack emoji to start. Using Lilian Weng's [emojisearch.app](https://www.emojisearch.app/), I find that the 'purse' emoji could do the job.
 
 >Render a 👛, relatively medium to large to the right of the game board. 
 
@@ -81,13 +79,13 @@ A few ideas come to mind, some more doable in HTML and CSS than others, but the 
 
 !["scrabble13"](/img/scrabble13.png)
 
-I notice that the right and bottom borders are either too thick or have redundant edges on them. I decide to go down a rabbit hole to fix this. If it doesn't work in three to five prompts, I should cut my losses.
+* I notice that the right and bottom borders are either too thick or have redundant edges on them. I decide to go down a rabbit hole to fix this. If it doesn't work in three to five prompts, I should cut my losses.
 
 !["scrabble13-16"](/img/scrabble13-16.gif)
 
-It didn't work. I'm okay to move on from an earlier checkpoint. 
+* It didn't work. I'm okay to move on from an earlier checkpoint. 
 
-I'll take another risk and see if I can improve the representation of the purse emoji as the letter pool in a few prompts. Making minute changes starts to feel cumbersome as the length of the artifact grows.
+* I'll take another risk and see if I can improve the representation of the purse emoji as the letter pool in a few prompts. Making minute changes starts to feel cumbersome as the length of the artifact grows.
 
 !["scrabble18-26"](/img/scrabble18-26.gif)
 

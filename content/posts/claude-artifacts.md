@@ -35,7 +35,7 @@ Take a look at the [official rules](https://www.hasbro.com/common/instruct/Scrab
 
 I know I need to communicate the basic premise of the game: players place letter tiles on a shared grid, spelling words to get points. I know that illustrating the grid and tiles is a straightforward visual that should show up early in the explainer. I'll start at this fuzzy idea.
 
-> Prompt: Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
+> Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
 
 !["scrabble1"](/img/scrabble1.png)
 
@@ -45,13 +45,13 @@ I know I need to communicate the basic premise of the game: players place letter
 
 * The tiles aren't positioned and don't look the way I anticipated, and don't really read as tiles.
 
-> Prompt: Reduce the size of the grid as this is a simplified representation. Remove the premium square colorings. Remove the tiles. Keep the middle square pink and add a black star overlaid and centered on it.
+> Reduce the size of the grid as this is a simplified representation. Remove the premium square colorings. Remove the tiles. Keep the middle square pink and add a black star overlaid and centered on it.
 
 !["scrabble2"](/img/scrabble2.png)
 
 It felt like a risk asking Claude to do four things at once, but it worked out okay. I like the simplified grid dimensions.
 
-> **Prompt**: Make the grid 9x9 and make the size a little larger. Set the board color to #F1DDC7. Set the pink color to #F59F9F. Replace the inner grid with a single gridline instead of double gridlines to simplify. Make sure the star is centered.
+> Make the grid 9x9 and make the size a little larger. Set the board color to #F1DDC7. Set the pink color to #F59F9F. Replace the inner grid with a single gridline instead of double gridlines to simplify. Make sure the star is centered.
 
 !["scrabble3"](/img/scrabble3.png)
 
@@ -105,7 +105,22 @@ I'll take another risk and see if I can improve the representation of the purse 
 
 !["scrabble18-26"](/img/scrabble18-26.gif)
 
-####
+#### Placing Tiles
+
+> Move the tiles "L" "E" "T" to vertically spell the word LET on the game board. Add a drop shadow under the tiles. The "E" should be placed on the center tile.
+
+> I'm not sure what's going on with the other tiles. Revert all tiles aside from LET to their original positions and displays.
+
+> Remove T L E from the bottom row. Remove drop shadow ONLY from the letters NOT on the board.
+
+After some finagling, player tiles are moved to the board. 
+
+> Now, place the second player's letters "T" and "H" preceding the "E" on the board horizontally. The "E" from "LET" will be used to spell "T H E", with the E being the rightmost element.
+
+> Remove the H from the second player's row. It was just used in the word THE!
+
+!["scrabble27-28"](/img/scrabble27-28.gif)
+
 
 
 

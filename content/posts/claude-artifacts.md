@@ -5,7 +5,7 @@ weight = 2
 draft = false
 +++
 
-## Working on a Visual Explainer
+# Working on Explainer Diagrams
 
 I recently used Claude to help me write a blog post I've been planning for a while and found iterative diagramming enjoyable.
 
@@ -15,21 +15,21 @@ As *Codenames* is a visual game with color-coded cards and hidden information, r
 
 {{< figure src="/img/example13.png" caption="Figure 1. An example diagram that was left on the cutting room floor." alt="Codenames game diagram" >}}
 
-## Thoughts on Artifacts
+# Thoughts on Artifacts
  
 Models like Claude act as something between a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) and an immediate feedback loop. I've found they facilitate the brainstorming process, maybe even mostly by forcing the user to articulate their vision, and potentially offer immediate feedback that makes taking a further step actionable.
 
 Anthropic's [Artifacts](https://www.anthropic.com/news/artifacts) really tightens the immediate feedback loop by rendering the, for example, HTML/CSS in a dedicated window alongside the text chat. You see output *as* you brainstorm, and I found it promising to land on a viable design for an instructional diagram working iteratively with Claude.  
 
-### Workflow and Limitations by Example
+# Workflow and Limitations by Example
 
-#### Scrabble
+## Scrabble
 
 To demonstrate a workflow, let's work through a toy example of generating diagrams for a *Scrabble* explainer. The objective of the explainer would be to help the reader understand what *Scrabble* *is* and touch on the core mechanics. 
 
 Take a look at the [official rules](https://www.hasbro.com/common/instruct/Scrabble_(2003).pdf). While a document like this is a comprehensive ruleset, it's too dense to act as a skimmable summary of the game.
 
-#### Brainstorming
+### Brainstorming
 
 #### An Initial Game Board
 
@@ -49,9 +49,7 @@ I know I need to communicate the basic premise of the game: players place letter
 
 !["scrabble2"](/img/scrabble2.png)
 
-* It felt like a risk asking Claude to do four things at once, but it worked out okay.
-
-* I like the simplified grid dimensions.
+It felt like a risk asking Claude to do four things at once, but it worked out okay. I like the simplified grid dimensions.
 
 > **Prompt**: Make the grid 9x9 and make the size a little larger. Set the board color to #F1DDC7. Set the pink color to #F59F9F. Replace the inner grid with a single gridline instead of double gridlines to simplify. Make sure the star is centered.
 
@@ -81,9 +79,9 @@ After several tries with no success, I start a new chat copy-pasting in the most
 
 !["scrabble11"](/img/scrabble11.png)
 
-A good start! I have a feeling a few possible visuals can come from manipulating this base design.
+A good start! I have a feeling a few possible visuals can come from manipulating this base diagram.
 
-#### Drawing Tiles
+#### Letter Pool
 
 Next, I'd like to represent the pouch or letter pool in some way and communicate to the reader that letters are randomly drawn and replenished.
 
@@ -105,9 +103,9 @@ It didn't work. I'm okay to move on from an earlier checkpoint.
 
 I'll take another risk and see if I can improve the representation of the purse emoji as the letter pool in a few prompts. Making minute changes starts to feel cumbersome as the length of the artifact grows.
 
-!["scrabble18-25"](/img/scrabble18-25.gif)
+!["scrabble18-26"](/img/scrabble18-26.gif)
 
-
+####
 
 
 

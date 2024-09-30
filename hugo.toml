@@ -11,10 +11,6 @@ include = "img"
     defaultTheme= light
     disableThemeToggle= true
 
-
-  [params.homeInfoParams]
-    Title = "Posts"
-
 [services]
   [services.googleAnalytics]
     ID = 'G-Y8NWFFJ8X4'

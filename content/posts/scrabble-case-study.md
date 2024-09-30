@@ -34,7 +34,7 @@ I know I need to communicate the basic premise of the game: players place letter
 * The tiles aren't positioned and don't look the way I anticipated, and don't really read as tiles.
 
 ### Simplified Board
-> Reduce the size of the grid as this is a simplified representation. Remove the premium square colorings. Remove the tiles. Keep the middle square pink and add a black star overlaid and centered on it.
+```Reduce the size of the grid as this is a simplified representation. Remove the premium square colorings. Remove the tiles. Keep the middle square pink and add a black star overlaid and centered on it.```
 
 !["scrabble2"](/img/scrabble2.png)
 

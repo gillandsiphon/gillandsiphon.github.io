@@ -33,13 +33,13 @@ Take a look at the [official rules](https://www.hasbro.com/common/instruct/Scrab
 
 #### Brainstorming
 
+#### An Initial Game Board
+
 I know I need to communicate the basic premise of the game: players place letter tiles on a shared grid, spelling words to get points. I know that illustrating the grid and tiles is a straightforward visual that should show up early in the explainer. I'll start at this fuzzy idea.
 
 > Prompt: Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
 
 !["scrabble1"](/img/scrabble1.png)
-
-A few things to note:
 
 * The standard Scrabble grid is 15x15, and Claude tried generating the grid in these dimensions too. However, seeing this, this may be too much complexity for an introductory graphic. I'm just hoping for readers to understand that letters are placed on a grid. 
 
@@ -55,7 +55,7 @@ A few things to note:
 
 * I like the simplified grid dimensions.
 
-> Prompt: Make the grid 9x9 and make the size a little larger. Set the board color to #F1DDC7. Set the pink color to #F59F9F. Replace the inner grid with a single gridline instead of double gridlines to simplify. Make sure the star is centered.
+> **Prompt**: Make the grid 9x9 and make the size a little larger. Set the board color to #F1DDC7. Set the pink color to #F59F9F. Replace the inner grid with a single gridline instead of double gridlines to simplify. Make sure the star is centered.
 
 !["scrabble3"](/img/scrabble3.png)
 
@@ -64,6 +64,9 @@ Oops. Let's fix this.
 > Please complete the grid. The lines on the right of the board aren't finished. It also looks like the rightmost outer border is thicker than the others.
 
 !["scrabble4"](/img/scrabble4.png)
+
+
+#### Tiles
 
 > Add 5 square #F1DDC7 tiles arranged in a row underneath the grid. The tiles each display one letter from the letters "R", "S", "T", "L", "E" in black.
 
@@ -79,6 +82,29 @@ After several tries with no success, I start a new chat copy-pasting in the most
 > Add tiles in a row "A C H T R"  to the top of the board too.  Rotate the tiles 180 degrees as this diagram depicts a top down view of the board. Make the tiles #d6b998.
 
 !["scrabble11"](/img/scrabble11.png)
+
+A good start! I have a feeling a few possible visuals can come from manipulating this base design.
+
+#### Drawing Tiles
+
+Next, I'd like to represent the pouch or letter pool in some way and communicate to the reader that letters are randomly drawn and replenished.
+
+A few ideas come to mind, some more doable in HTML and CSS than others, but the simplest seems to be rendering a bag or sack emoji to start. Using Lilian Weng's [emojisearch.app](https://www.emojisearch.app/), I find that the 'purse' emoji could do the job.
+
+>Render a 👛, relatively medium to large to the right of the game board. 
+
+!["scrabble12"](/img/scrabble12.png)
+
+>Increase the black outer stroke on the tiles and game board significantly, and make them dark black.
+
+!["scrabble13"](/img/scrabble13.png)
+
+I notice that the right and bottom borders are either too thick or have redundant edges on them. I decide to go down a rabbit hole to fix this. If it doesn't work in three to five prompts, I should cut my losses.
+
+!["scrabble13-16"](/img/scrabble13-16.gif)
+
+It didn't work. I'm okay to move on from an earlier checkpoint. 
+
 
 
 

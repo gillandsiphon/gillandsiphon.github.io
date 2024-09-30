@@ -1,5 +1,5 @@
 +++
-title = 'Claude Artifacts for Iterative Diagramming'
+title = 'Claude Artifacts for Iterative Diagramming: A Walkthrough'
 date = 2024-09-28T18:46:29-04:00
 weight = 2
 draft = false
@@ -12,8 +12,6 @@ I recently used Claude to help me write a blog post I've been planning for a whi
 The post I wrote is [a short primer for the word association game *Codenames*](../codenames-primer/). I've often found the need for a concise explainer that's separate from a rulebook—the goal is to familiarize someone with what *Codenames* is rather than precisely how to play it.
 
 As *Codenames* is a visual game with color-coded cards and hidden information, representing concepts with diagrams is a natural choice. 
-
-{{< figure src="/img/example13.png" caption="Figure 1. An example diagram that was left on the cutting room floor." alt="Codenames game diagram" >}}
 
 # Thoughts on Artifacts
  
@@ -121,6 +119,17 @@ After some finagling, player tiles are moved to the board.
 
 !["scrabble27-28"](/img/scrabble27-28.gif)
 
+#### Drawing Tiles
+
+> Add an outer glow to the bag in #ffaa00. Add the tiles "A" "G" "M" to the lower row and add "M" "S" to the upper row. Add outer glow to the newly added tiles "A" "G" "M" "M" "S". Empty the bag.
+
+A little bit of finagling again, and an imperfect but reasonable depiction of drawing tiles. Arrows would be nice, but based on previous toying around there's no chance they're going to work here. 
+
+A quick note on finagling: rolling back to a previous iteration is made pretty painless by being able to edit previous prompts directly,  examining previous versions in the Artifacts display, and worst case, easily copying code and pasting it into a new chat.
+
+!["scrabble29"](/img/scrabble29.png)
+
+#### Premium Tiles
 
 
 

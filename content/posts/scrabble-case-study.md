@@ -13,15 +13,13 @@ I recently created one of these [explainers for the word association game *Coden
 I wanted to commentate on this kind of workflow, and so decided to do it again creating an explainer for *Scrabble*. This post documents my workflow in working with Claude 3.5 Sonnet and Artifacts for iterative diagramming. In this way, this post acts as an Appendix to the [*Scrabble* primer](https://gillandsiphon.github.io/posts/scrabble-case-study/) and [Claude Artifacts](https://gillandsiphon.github.io/posts/claude-artifacts/) posts.
 
 
-# Diagramming a Scrabble Explainer
-
 ## Brainstorming
 
 I know I need to communicate the basic premise of the game: players place letter tiles on a shared grid, spelling words to get points. I know that illustrating the grid and tiles is a straightforward visual that should show up early in the explainer. I'll start at this fuzzy idea.
 
 ### Initial Board
 
-`Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.`
+> Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
 
 !["scrabble1"](/img/scrabble1.png)
 
@@ -34,7 +32,7 @@ I know I need to communicate the basic premise of the game: players place letter
 * The tiles aren't positioned and don't look the way I anticipated, and don't really read as tiles.
 
 ### Simplified Board
-```Reduce the size of the grid as this is a simplified representation. Remove the premium square colorings. Remove the tiles. Keep the middle square pink and add a black star overlaid and centered on it.```
+> Reduce the size of the grid as this is a simplified representation. Remove the premium square colorings. Remove the tiles. Keep the middle square pink and add a black star overlaid and centered on it.
 
 !["scrabble2"](/img/scrabble2.png)
 

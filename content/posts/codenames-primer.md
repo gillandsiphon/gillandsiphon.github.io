@@ -44,4 +44,4 @@ The game ends when all cards of one team's color have been revealed. Turns alter
 
 ### Official Rules
 
-This introduction has covered a birds-eye view of *Codenames*, but for comprehensive rules, check out the [official rules](https://czechgames.com/files/rules/codenames-rules-en.pdf).
+This introduction has covered a birds-eye view of *Codenames*, but for a comprehensive ruleset, check out the [official rules](https://czechgames.com/files/rules/codenames-rules-en.pdf).

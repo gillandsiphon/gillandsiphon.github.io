@@ -1,6 +1,6 @@
 +++
 title = 'A Simple Introduction to Scrabble'
-date = 2024-09-22T18:46:29-04:00
+date = 2024-09-30T18:46:29-04:00
 weight = 1
 draft = false
 +++
@@ -65,4 +65,4 @@ The game ends when all tiles have been used, or no further plays are possible.
 
 ### Official Rules
 
-This introduction has covered a birds-eye view of *Scrabble*, but for comprehensive rules, check out the [official rules](https://www.hasbro.com/common/instruct/Scrabble_(2003).pdf).
+This introduction has covered a birds-eye view of *Scrabble*, but for a comprehensive ruleset, check out the [official rules](https://www.hasbro.com/common/instruct/Scrabble_(2003).pdf).

@@ -14,7 +14,7 @@ In doing so, I found iterative diagramming with Claude and Artifacts enjoyable. 
 
 # Artifacts
  
-Models like Claude act as something between a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) and an immediate feedback loop. I've found they facilitate the brainstorming process if only by forcing the user to articulate their vision. These models also surface immediate feedback that makes taking a further step actionable.
+Models like Claude act as something between a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) and an immediate feedback loop. I've found they facilitate the brainstorming process if only by forcing the user to articulate their vision. These models comment:(UIs) also surface immediate feedback that makes taking a further step actionable.
 
 Anthropic's [Artifacts](https://www.anthropic.com/news/artifacts) really tightens the immediate feedback loop by rendering the, for example, HTML/CSS in a dedicated window alongside the text chat. You see output *as* you brainstorm, and I found it promising to land on a viable design for an instructional diagram working iteratively with Claude.  
 
@@ -28,10 +28,9 @@ Working with models like Claude in a text-only UI, like the one that serves Chat
 
 However, Anthropic's [Artifacts](https://support.anthropic.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them) feature, which displays content like renderable code or text documents in a dedicated panel, provides immediate feedback by rendering output without occluding the text chat.
 
-In Anthropic's [How we built Artifacts](https://www.youtube.com/watch?v=vUdNaAAc4FY) video, Alex Tamkin outlines the way a feedback loop would work without Artifacts: you'd have to copy-paste the output code into an editor, render it or run it, and then tab back to the chat window to do it again. 
+Anthropic's [How we built Artifacts](https://www.youtube.com/watch?v=vUdNaAAc4FY) video outlines the way a feedback loop would work without Artifacts: you'd have to copy-paste the output code into an editor, render it or run it, and then tab back to the chat window to do it again. 
 
 Artifacts tightens that feedback loop and makes iterating enjoyable.
-
 
 ### Create as you Brainstorm
 

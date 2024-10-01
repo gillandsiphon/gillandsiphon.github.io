@@ -36,7 +36,7 @@ Artifacts tightens that feedback loop and makes iterating enjoyable.
 
 Working iteratively with Claude has a kind of lightness. You can start brainstorming without an immediately clear vision, just thumbing at the clay until viable shapes surface. 
 
-[Working on the Scrabble Explainer],(https://gillandsiphon.github.io/posts/scrabble-case-study/#brainstorming), I knew I wanted diagrams that simplify components of Scrabble. Without much more of a plan, it became more clear to me *what I wanted* by being shown the things I didn't want.
+[Working on the Scrabble Explainer](https://gillandsiphon.github.io/posts/scrabble-case-study/#brainstorming), I knew I wanted diagrams that simplify components of Scrabble. Without much more of a plan, it became more clear to me *what I wanted* by being shown the things I didn't want.
 
 ### Branching
 

@@ -83,10 +83,19 @@ generated outcomes that I was satisfied with in one try, and it was pleasant rec
 
 !["scrabble13"](/img/scrabble13.png)
 
-#### Spellcasting, and The Monkey's Paw
+#### Spellcasting
 
-This exercise of generating diagrams highlights the importance of word choice while prompting.
+This exercise made visceral the importance of word choice while prompting.  
 
+Sometimes you'll want to request something that you may not have really verbalized before—things you'd normally show someone visually, and say "do it like this".  
+
+For the following prompt, I wasn't even sure I understood what I was writing, but it felt satisfying to, sometimes mash words together creatively  to get the output I had imagined.
+
+> Eight tasteful blue squares make an hexagon shape (spaced out) in the penultimate concentric square of the grid.
+
+!["scrabble35"](/img/scrabble35.png)
+
+#### Software
 
 
 

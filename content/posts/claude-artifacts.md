@@ -10,7 +10,7 @@ I recently used Claude and Artifacts to help me create explanatory diagrams for 
 
 In doing so, I found iterative diagramming with Claude and Artifacts enjoyable. In this post, I want to organize my takeaways. I've also recorded my workflow in an [appendix post](https://gillandsiphon.github.io/posts/scrabble-case-study/).
 
-!["review3"](/img/review3.jpg)
+!["review3"](/img/review3.png)
 
 # Artifacts
  

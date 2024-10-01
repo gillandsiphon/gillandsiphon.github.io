@@ -180,7 +180,7 @@ I'll start with the premium square board state and fashion something that evokes
 
 !["scrabble36"](/img/scrabble36.png)
 
-* I think it looks pretty good, but I don't think it sells the crossword analogy. I don't want to add too many distinct motifs into the piece, so I'll pause this idea here.
+* I think this can be molded into something... but I don't think it's going to sell the crossword analogy. I don't think this is a direction I want to keep exploring, so I'll pause here.
 
 
 

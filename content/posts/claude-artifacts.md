@@ -10,7 +10,6 @@ I recently used Claude and Artifacts to help me create explanatory diagrams for 
 
 In doing so, I found iterative diagramming with Claude and Artifacts enjoyable. In this post, I want to organize my takeaways. I've also recorded my workflow in an [appendix post](https://gillandsiphon.github.io/posts/scrabble-case-study/).
 
-!["review3"](/img/review3.png)
 {{< figure src="/img/review3.png" caption="An example of diagrams from the *Codenames* and *Scrabble* explainers." >}}
 
 
@@ -47,12 +46,12 @@ Sometimes chasing a hunch doesn't work out. I ran into several instances of idea
 #### Retry
 A prominent Retry button at the bottom of each output is an easy way to reroll if you want to see another variation, or potentially correct an error.
 
-!["review3"](/img/review3.png)
+!["review4"](/img/review4.png)
 
 #### Versions
 To visually refer to previous artifacts, a Version history is kept within chat, displayed on the bottom of the Artifacts panel. 
 
-!["review5"](/img/review3.png)
+!["review5"](/img/review5.png)
 
 #### Edit
 Processed prompts can be edited to continue from a "checkpoint" in the chat instance. I found this the most helpful when I accidentally flubbed the prompt or completely abandoned a rabbithole I was heading down.
@@ -64,6 +63,8 @@ If all else fails, code blocks in the text chat and Artifacts pane can be copied
 
 
 ### Delightful Surprises
+
+#### Vibe reading
 
 Although I find being extremely precise is the right way to approach asking for iterative changes, especially those that involve rearrangements, reorientations or other element transformations, it is delightful when you lob an unclarified
 ask and Claude hits it out of the park.
@@ -81,6 +82,13 @@ generated outcomes that I was satisfied with in one try, and it was pleasant rec
 !["scrabble12"](/img/scrabble12.png)
 
 !["scrabble13"](/img/scrabble13.png)
+
+#### Spellcasting, and The Monkey's Paw
+
+This exercise of generating diagrams highlights the importance of word choice while prompting.
+
+
+
 
 
 ## Limitations

@@ -1,5 +1,5 @@
 +++
-title = 'Iterative Diagrams: A Scrabble Case Study'
+title = 'Iterative Diagrams: Scrabble Case Study'
 date = 2024-09-29T18:46:29-04:00
 draft = false
 +++
@@ -165,3 +165,28 @@ I know I need to communicate the basic premise of the game: players place letter
 > Eight tasteful blue squares make an hexagon shape (spaced out) in the penultimate concentric square of the grid.
 
 !["scrabble35"](/img/scrabble35.png)
+
+
+#### Extras: Crossword Analogy
+
+* I think *Scrabble* being called a Crossword game is a succint and powerful explainer. I wonder if it's worth visually representing that analogy to give readers a connection to an existing idea of horizontal and vertical words on a grid.
+
+I'll start with the premium square board state and fashion something that evokes a crossword. After some finagling:
+
+>Place the cells L E T vertically with the E at the center. Remove the coloring from these cells and just display the letter.
+>On the left of the center cell E, add the letters "T H", spelling THE horizontally.
+>Color the beige cells very light grey. Color the red and blue cells jet black.
+>Add a 1 on the top left of the L and a 2 on the top left of the T that forms "T H E"
+
+!["scrabble36"](/img/scrabble36.png)
+
+* I think it looks pretty good, but I don't think it sells the crossword analogy. I don't want to add too many distinct motifs into the piece, so I'll pause this idea here.
+
+
+
+
+
+
+
+
+

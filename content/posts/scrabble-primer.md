@@ -1,6 +1,6 @@
 +++
 title = 'A Simple Introduction to Scrabble'
-date = 2024-09-30T18:46:30-04:00
+date = 2024-09-29T18:46:29-04:00
 draft = false
 +++
 
@@ -30,8 +30,6 @@ Players then alternate turns, building words by laying their own tiles with exis
 
 !["scrabble28"](/img/scrabble28.png)
 
-
-[crossword analogy]
 
 #### Drawing More Tiles
 

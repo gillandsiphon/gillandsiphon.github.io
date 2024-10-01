@@ -11,6 +11,8 @@ I recently used Claude and Artifacts to help me create explanatory diagrams for 
 In doing so, I found iterative diagramming with Claude and Artifacts enjoyable. In this post, I want to organize my takeaways. I've also recorded my workflow in an [appendix post](https://gillandsiphon.github.io/posts/scrabble-case-study/).
 
 !["review3"](/img/review3.png)
+{{< figure src="/img/review3.png" caption="An example of diagrams from the *Codenames* and *Scrabble* explainers." >}}
+
 
 # Artifacts
  
@@ -28,7 +30,7 @@ Working with models like Claude in a text-only UI, like the one that serves Chat
 
 However, Anthropic's [Artifacts](https://support.anthropic.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them) feature, which displays content like renderable code or text documents in a dedicated panel, provides immediate feedback by rendering output without occluding the text chat.
 
-Anthropic's [How we built Artifacts](https://www.youtube.com/watch?v=vUdNaAAc4FY) video outlines the way a feedback loop would work without Artifacts: you'd have to copy-paste the output code into an editor, render it or run it, and then tab back to the chat window to do it again. 
+Anthropic's [How we built Artifacts](https://www.youtube.com/watch?v=vUdNaAAc4FY) video outlines the way a feedback loop would work without Artifacts: you'd have to copy-paste the output code into an editor, render it or run it, and then alt-tab back to the chat window to do it again. 
 
 Artifacts tightens that feedback loop and makes iterating enjoyable.
 
@@ -45,11 +47,17 @@ Sometimes chasing a hunch doesn't work out. I ran into several instances of idea
 #### Retry
 A prominent Retry button at the bottom of each output is an easy way to reroll if you want to see another variation, or potentially correct an error.
 
+!["review3"](/img/review3.png)
+
 #### Versions
 To visually refer to previous artifacts, a Version history is kept within chat, displayed on the bottom of the Artifacts panel. 
 
+!["review5"](/img/review3.png)
+
 #### Edit
 Processed prompts can be edited to continue from a "checkpoint" in the chat instance. I found this the most helpful when I accidentally flubbed the prompt or completely abandoned a rabbithole I was heading down.
+
+!["review6"](/img/review6.png)
 
 #### New Chat
 If all else fails, code blocks in the text chat and Artifacts pane can be copied with a copy button, and pasted into a new chat instance.

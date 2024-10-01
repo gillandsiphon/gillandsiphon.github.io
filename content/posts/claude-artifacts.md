@@ -14,9 +14,9 @@ In doing so, I found iterative diagramming with Claude and Artifacts enjoyable. 
 
 !["scrabble37"](/img/scrabble37.png)
 
-# Thoughts on Artifacts
+# Artifacts
  
-Models like Claude act as something between a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) and an immediate feedback loop. I've found they facilitate the brainstorming process, maybe even mostly by forcing the user to articulate their vision, and potentially offer immediate feedback that makes taking a further step actionable.
+Models like Claude act as something between a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) and an immediate feedback loop. I've found they facilitate the brainstorming process if only by forcing the user to articulate their vision. These models also surface immediate feedback that makes taking a further step actionable.
 
 Anthropic's [Artifacts](https://www.anthropic.com/news/artifacts) really tightens the immediate feedback loop by rendering the, for example, HTML/CSS in a dedicated window alongside the text chat. You see output *as* you brainstorm, and I found it promising to land on a viable design for an instructional diagram working iteratively with Claude.  
 

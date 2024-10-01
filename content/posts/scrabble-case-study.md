@@ -163,7 +163,7 @@ I know I need to communicate the basic premise of the game: players place letter
 
 * A little finagling and:
 
-> Eight tasteful blue squares make an hexagon shape (spaced out) in the penultimate concentric square of the grid.
+> Eight tasteful blue squares make a hexagon shape (spaced out) in the penultimate concentric square of the grid.
 
 !["scrabble35"](/img/scrabble35.png)
 

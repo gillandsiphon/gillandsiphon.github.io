@@ -33,7 +33,7 @@ Anthropic's [How we built Artifacts](https://www.youtube.com/watch?v=vUdNaAAc4FY
 
 Artifacts tightens that feedback loop and makes iterating enjoyable.
 
-### Create as you Brainstorm
+### Create As You Brainstorm
 
 Working iteratively with Claude has a kind of lightness. You can start brainstorming without an immediately clear vision, just thumbing at the clay until viable shapes surface. 
 
@@ -84,7 +84,7 @@ Sometimes you'll want to request something that you may not have really verbaliz
 
 For the following prompt, I wasn't even sure I understood what I was writing, but it felt satisfying to, sometimes mash words together creatively  to get the output I had imagined.
 
-{{< figure src="/img/scrabble35.png" caption="Prompt: Eight tasteful blue squares make an hexagon shape (spaced out) in the penultimate concentric square of the grid." >}}
+{{< figure src="/img/scrabble35.png" caption="Prompt: Eight tasteful blue squares make a hexagon shape (spaced out) in the penultimate concentric square of the grid." >}}
 
 #### Easter Eggs
 
@@ -121,6 +121,6 @@ If your image is using slightly desaturated colors, but you don't specify the bl
 
 After enough time iterating in one chat instance, the history grows with diminishing returns. Context you may need, like colors or HTML elements are likely present in new iterations, and early versions may not be needed. I found it relatively easy to start a new chat every so often, but this is something to keep in mind.
 
-## Future-Looking
+## Final Thoughts
 
-Artifacts for iterative diagramming makes good use of rendering elements in a display without obstructing the text chat. I expect strengths to improve and limtations to decrease as model capabilities improve. I understand that it's not the UIs sole job to *be* an image editor, but there's a lot of potential in additional tools that could further tighten this workflow.
+Artifacts for iterative diagramming makes good use of rendering elements in a display without obstructing the text chat. I expect strengths to improve and limitations to decrease as model capabilities improve. I understand that it's not the UIs sole job to *be* an image editor, but there's a lot of potential in additional tools that could further tighten this workflow.

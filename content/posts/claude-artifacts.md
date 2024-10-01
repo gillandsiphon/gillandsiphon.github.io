@@ -113,8 +113,14 @@ Generally, 3.5 Sonnet performed best when making one-hop iterative changes.
 
 ### The Monkey's Paw
 
+The flipside of Claude adhering to precise instructions is that sometimes, Claude will try to precisely adhere to the precise instructions, so they'd better be precisely what you intended. 
 
+If your image is using slightly desaturated colors, but you don't specify the blue you want, well, Claude might use 'blue', #0000FF. If there are two "T"s on the *Scrabble* grid, and only one of makes sense to adjoin letters to, you still had better have specified which "T". And so on. 
 
 ### Context Limits
 
+After enough time iterating in one chat instance, the history grows with diminishing returns. Context you may need, like colors or HTML elements are likely present in new iterations, and early versions may not be needed. I found it relatively easy to start a new chat every so often, but this is something to keep in mind.
 
+## Future-Looking
+
+Artifacts for iterative diagramming makes good use of rendering elements in a display without obstructing the text chat. I expect strengths to improve and limtations to decrease as model capabilities improve. I understand that it's not the UIs sole job to *be* an image editor, but there's a lot of potential in additional tools that could further tighten this workflow.

@@ -10,9 +10,7 @@ I recently used Claude and Artifacts to help me create explanatory diagrams for 
 
 In doing so, I found iterative diagramming with Claude and Artifacts enjoyable. In this post, I want to organize my takeaways. I've also recorded my workflow in an [appendix post](https://gillandsiphon.github.io/posts/scrabble-case-study/).
 
-!["example27"](/img/example27.png)
-
-!["scrabble26"](/img/scrabble26.png)
+!["review2"](/img/review2.png)
 
 # Artifacts
  
@@ -25,8 +23,35 @@ Anthropic's [Artifacts](https://www.anthropic.com/news/artifacts) really tighten
 
 ### Create as you Brainstorm
 
+- you dont need to have specd out what you want
 
-## Weaknesses
+### Delightful Surprises
 
-### 
+- surprising details like randomized letter tiles without asking for it
+
+### Immediate Feedback
+- artifacts pane
+
+### Branching
+
+#### Retry
+- simply rerolling answer
+
+#### Versions
+- toggling between versions visually in panel 
+
+#### Edit
+- if the most recent pivot didn't work out, start from a previous checkpoint 
+
+#### New Chat
+- if all else fails, use the copy button and start a new chat
+
+## Limitations
+
+### Falters with Complexity
+
+### Requires Clarity
+
+### Context Limits
+
 

@@ -16,7 +16,7 @@ The board displays a grid with a marked center position. Players are distributed
 
 !["scrabble26"](/img/scrabble26.png)
 
-###Turns
+### Turns
 #### First Turn
 
 The first turn begins with a player forming a word from their letter tiles. The first word must be placed horizontally or vertically such that one of the tiles takes the center position.

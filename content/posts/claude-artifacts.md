@@ -118,7 +118,7 @@ If your image is using slightly desaturated colors, but you don't specify the bl
 
 ### Context Limits
 
-After enough time iterating in one chat instance, the history grows with diminishing returns. Context you may need, like colors or HTML elements are likely present in new iterations, and early versions may not be needed. I found it relatively easy to start a new chat every so often, but this is something to keep in mind.
+After enough time iterating in one chat instance, the history grows with diminishing returns. Context you may need, like colors or HTML elements, are likely present in new iterations, and early versions may not be needed. I found it relatively easy to start a new chat every so often, but this is something to keep in mind.
 
 ## Final Thoughts
 

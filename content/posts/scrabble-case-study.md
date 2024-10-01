@@ -188,7 +188,7 @@ I'll start with the premium square board state and fashion something that evokes
 
 ### Takeaways
 
-For takeaways, see the post on [Claude Artifacts for Iterative Diagramming](https://gillandsiphon.github.io/posts/claude-artifacts/)
+For takeaways, see the post on [Claude Artifacts for Iterative Diagramming](https://gillandsiphon.github.io/posts/claude-artifacts/).
 
 
 

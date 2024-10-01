@@ -114,7 +114,7 @@ Generally, 3.5 Sonnet performed best when making one-hop iterative changes.
 
 The flipside of Claude adhering to precise instructions is that sometimes, Claude will try to precisely adhere to the precise instructions, so they'd better be precisely what you intended. 
 
-If your image is using slightly desaturated colors, but you don't specify the blue you want, well, Claude might use 'blue', #0000FF. If there are two "T"s on the *Scrabble* grid, and only one of makes sense to adjoin letters to, you still had better have specified which "T". And so on. 
+If your image is using slightly desaturated colors, but you don't specify the blue you want, well, Claude might use 'blue', #0000FF. If there are two "T"s on the *Scrabble* grid, and only one of makes sense to adjoin letters to, you still better have specified which "T". And so on. 
 
 ### Context Limits
 

@@ -100,8 +100,7 @@ Claude 3.5 Sonnet struggles with large, complex asks that require multiple decis
 
 The first prompt I gave it in the Scrabble explainer was to attempt a large chunk of the explainer in one shot.
 
-{{< figure src="/img/scrabble1.png" caption="Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
-" >}}
+{{< figure src="/img/scrabble1.png" caption="Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board." >}}
 
 The diagram left a lot to be desired, and both the grid and premium tiles had errors.
 

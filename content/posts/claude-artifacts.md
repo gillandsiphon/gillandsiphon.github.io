@@ -12,7 +12,7 @@ In doing so, I found iterative diagramming with Claude and Artifacts enjoyable. 
 
 !["example27"](/img/example27.png)
 
-!["scrabble37"](/img/scrabble37.png)
+!["scrabble26"](/img/scrabble26.png)
 
 # Artifacts
  
@@ -21,6 +21,12 @@ Models like Claude act as something between a [rubber duck](https://en.wikipedia
 Anthropic's [Artifacts](https://www.anthropic.com/news/artifacts) really tightens the immediate feedback loop by rendering the, for example, HTML/CSS in a dedicated window alongside the text chat. You see output *as* you brainstorm, and I found it promising to land on a viable design for an instructional diagram working iteratively with Claude.  
 
 
+## Strengths
+
+### Create as you Brainstorm
 
 
+## Weaknesses
+
+### 
 

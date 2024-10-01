@@ -71,9 +71,9 @@ ask and Claude hits it out of the park.
 
 It felt satisfying receiving fitting outputs even when prompting Claude with fuzzy descriptors like "medium to large" or "significantly".
 
-{{< figure src="/img/scrabble12.png" caption="Render a 👛, relatively medium to large to the right of the game board." >}}
+{{< figure src="/img/scrabble12.png" caption="Prompt: Render a 👛, relatively medium to large to the right of the game board." >}}
 
-{{< figure src="/img/scrabble13.png" caption="Increase the black outer stroke on the tiles." >}}
+{{< figure src="/img/scrabble13.png" caption="Prompt: Increase the black outer stroke on the tiles." >}}
 
 #### Spellcasting
 >Note: The vision input modality was not used in this or associated exercises. 
@@ -84,7 +84,7 @@ Sometimes you'll want to request something that you may not have really verbaliz
 
 For the following prompt, I wasn't even sure I understood what I was writing, but it felt satisfying to, sometimes mash words together creatively  to get the output I had imagined.
 
-{{< figure src="/img/scrabble35.png" caption="Eight tasteful blue squares make an hexagon shape (spaced out) in the penultimate concentric square of the grid.
+{{< figure src="/img/scrabble35.png" caption="Prompt: Eight tasteful blue squares make an hexagon shape (spaced out) in the penultimate concentric square of the grid.
 ">}}
 
 #### Software

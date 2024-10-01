@@ -64,20 +64,13 @@ If all else fails, code blocks in the text chat and Artifacts pane can be copied
 
 ### Delightful Surprises
 
-#### Vibe reading
+#### Vibe Reading
 
 Although I find being extremely precise is the right way to approach asking for iterative changes, especially those that involve rearrangements, reorientations or other element transformations, it is delightful when you lob an unclarified
 ask and Claude hits it out of the park.
 
 Prompting Claude to:
-
-> Render a 👛, relatively medium to large to the right of the game board.
-
-or
-
-> Increase the black outer stroke on the tiles and game board significantly, and make them dark black.
-
-generated outcomes that I was satisfied with in one try, and it was pleasant receiving those although the prompt included fuzzy descriptors like "medium to large" or "significantly".
+"Render a 👛, relatively medium to large to the right of the game board." or "Increase the black outer stroke on the tiles and game board significantly, and make them dark black." generated outcomes that I was satisfied with in one try, and it was pleasant receiving those although the prompt included fuzzy descriptors like "medium to large" or "significantly".
 
 !["scrabble12"](/img/scrabble12.png)
 

@@ -168,7 +168,7 @@ I know I need to communicate the basic premise of the game: players place letter
 !["scrabble35"](/img/scrabble35.png)
 
 
-### Extras: Crossword Analogy
+### Crossword Analogy
 
 * I think *Scrabble* being called a Crossword game is a succint and powerful explainer. I wonder if it's worth visually representing that analogy to give readers a connection to an existing idea of horizontal and vertical words on a grid.
 
@@ -186,7 +186,9 @@ I'll start with the premium square board state and fashion something that evokes
 
 * I think this can be molded into something... but I don't think it's going to sell the crossword analogy. I don't think this is a direction I want to keep exploring, so I'll pause here.
 
+### Takeaways
 
+For takeaways, see the post on [Iterative Diagramming with Claude Artifacts]()
 
 
 

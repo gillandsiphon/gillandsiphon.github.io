@@ -103,12 +103,17 @@ The first prompt I gave it in the Scrabble explainer was to attempt a large chun
 {{< figure src="/img/scrabble1.png" caption="Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
 " >}}
 
+The diagram left a lot to be desired, and both the grid and premium tiles had errors.
 
-The diagram left a lot to be desired, and both the grid and attempt at premium tiles had errors.
+Manipulating the grid and centering multiple elements were major sticking points that 3.5 Sonnet couldn't handle. 
+
+For both the *Scrabble* and the *Codenames* explainers, 3.5 Sonnet is not able to render forked or branching arrows that point from one element to another, which makes sense due to the medium it's working in.
+
+Generally, 3.5 Sonnet performed best when making one-hop iterative changes.
+
+### The Monkey's Paw
 
 
-
-### Requires Clarity
 
 ### Context Limits
 

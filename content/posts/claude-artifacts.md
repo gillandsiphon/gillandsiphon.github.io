@@ -84,9 +84,6 @@ Sometimes you'll want to request something that you may not have really verbaliz
 
 For the following prompt, I wasn't even sure I understood what I was writing, but it felt satisfying to, sometimes mash words together creatively  to get the output I had imagined.
 
-{{< figure src="/img/scrabble35.png" caption="Prompt: Eight tasteful blue squares make an hexagon shape (spaced out) in the penultimate concentric square of the grid.
-">}}
-
 #### Software
 
 

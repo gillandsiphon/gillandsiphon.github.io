@@ -90,7 +90,7 @@ For the following prompt, I wasn't even sure I understood what I was writing, bu
 
 In one instance of asking Claude to add a tile to the bag containing the letters "A" and "G", Claude chooses to add "M". Asking it to add two more tiles, just because I thought five would look better, Claude adds in "E" and "S" and notes that it spells "G", "A", "M", "E", "S". 
 
-{{< figure src="/img/scrabble18-26.gif" caption="Claude spells "GAMES" with the letters in the bag." >}}
+{{< figure src="/img/scrabble18-26.gif" caption="Claude spells 'GAMES' with the letters in the bag." >}}
 
 ## Limitations
 

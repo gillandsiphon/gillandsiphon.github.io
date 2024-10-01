@@ -10,7 +10,7 @@ I recently used Claude and Artifacts to help me create explanatory diagrams for 
 
 In doing so, I found iterative diagramming with Claude and Artifacts enjoyable. In this post, I want to organize my takeaways. I've also recorded my workflow in an [appendix post](https://gillandsiphon.github.io/posts/scrabble-case-study/).
 
-{{< figure src="/img/review3.png" caption="An example of diagrams from the *Codenames* and *Scrabble* explainers." >}}
+{{< figure src="/img/review3.png" caption="Examples of diagrams from the *Codenames* and *Scrabble* explainers." >}}
 
 
 # Artifacts
@@ -70,11 +70,13 @@ Although I find being extremely precise is the right way to approach asking for 
 ask and Claude hits it out of the park.
 
 Prompting Claude to:
-"Render a 👛, relatively medium to large to the right of the game board." or "Increase the black outer stroke on the tiles and game board significantly, and make them dark black." generated outcomes that I was satisfied with in one try, and it was pleasant receiving those although the prompt included fuzzy descriptors like "medium to large" or "significantly".
+"Render a 👛, relatively medium to large to the right of the game board" or "Increase the black outer stroke on the tiles and game board significantly, and make them dark black" generated outcomes that I was satisfied with in one try, and it was pleasant receiving those although the prompt included fuzzy descriptors like "medium to large" or "significantly".
 
-!["scrabble12"](/img/scrabble12.png)
+{{< figure src="/img/scrabble12.png" caption="Render a 👛, relatively medium to large to the right of the game board.">}}
 
-!["scrabble13"](/img/scrabble13.png)
+
+{{< figure src="/img/scrabble13.png" caption="Increase the black outer stroke on the tiles." >}}
+
 
 #### Spellcasting
 
@@ -84,9 +86,8 @@ Sometimes you'll want to request something that you may not have really verbaliz
 
 For the following prompt, I wasn't even sure I understood what I was writing, but it felt satisfying to, sometimes mash words together creatively  to get the output I had imagined.
 
-> Eight tasteful blue squares make an hexagon shape (spaced out) in the penultimate concentric square of the grid.
-
-!["scrabble35"](/img/scrabble35.png)
+{{< figure src="/img/scrabble35.png" caption="> Eight tasteful blue squares make an hexagon shape (spaced out) in the penultimate concentric square of the grid.
+" >}}
 
 #### Software
 

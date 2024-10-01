@@ -86,14 +86,27 @@ For the following prompt, I wasn't even sure I understood what I was writing, bu
 
 {{< figure src="/img/scrabble35.png" caption="Prompt: Eight tasteful blue squares make an hexagon shape (spaced out) in the penultimate concentric square of the grid." >}}
 
-#### Software
+#### Easter Eggs
 
+In one instance of asking Claude to add a tile to the bag containing the letters "A" and "G", Claude chooses to add "M". Asking it to add two more tiles, just because I thought five would look better, Claude adds in "E" and "S" and notes that it spells "G", "A", "M", "E", "S". 
 
-
+{{< figure src="/img/scrabble18-26.gif" caption="Claude spells "GAMES" with the letters in the bag." >}}
 
 ## Limitations
 
 ### Falters with Complexity
+
+Claude 3.5 Sonnet struggles with large, complex asks that require multiple decisions. 
+
+The first prompt I gave it in the Scrabble explainer was to attempt a large chunk of the explainer in one shot.
+
+{{< figure src="/img/scrabble1.png" caption="Generate a simplified diagram for illustrative and instructional purposes representing a Scrabble board in HTML and CSS. Place 7 tiles on the bottom and right of the board.
+" >}}
+
+
+The diagram left a lot to be desired, and both the grid and attempt at premium tiles had errors.
+
+
 
 ### Requires Clarity
 

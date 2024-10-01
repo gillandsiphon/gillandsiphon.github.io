@@ -1,6 +1,7 @@
 +++
 title = 'Claude Artifacts for Iterative Diagramming'
 date = 2024-09-28T18:46:29-04:00
+weight = 1
 draft = false
 +++
 

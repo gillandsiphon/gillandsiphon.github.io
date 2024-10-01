@@ -2,6 +2,7 @@
 title = 'A Simple Introduction to Scrabble'
 date = 2024-09-29T18:46:29-04:00
 draft = false
+weight = 2
 +++
 
 The purpose of this article is to introduce the broad strokes of the board game *Scrabble* as context for later posts.

@@ -76,6 +76,7 @@ It felt satisfying receiving fitting outputs even when prompting Claude with fuz
 {{< figure src="/img/scrabble13.png" caption="Increase the black outer stroke on the tiles." >}}
 
 #### Spellcasting
+>Note: The vision input modality was not used in this or associated exercises. 
 
 This exercise made visceral the importance of word choice while prompting.  
 

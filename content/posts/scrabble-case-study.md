@@ -171,7 +171,7 @@ I know I need to communicate the basic premise of the game: players place letter
 
 ### Crossword Analogy
 
-* I think *Scrabble* being called a Crossword game is a succint and powerful explainer. I wonder if it's worth visually representing that analogy to give readers a connection to an existing idea of horizontal and vertical words on a grid.
+* I think *Scrabble* being called a Crossword game is a succinct and powerful explainer. I wonder if it's worth visually representing that analogy to give readers a connection to an existing idea of horizontal and vertical words on a grid.
 
 I'll start with the premium square board state and fashion something that evokes a crossword. After some finagling:
 

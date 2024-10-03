@@ -1,5 +1,5 @@
 +++
-title = 'Iterative Diagrams: Scrabble Case Study'
+title = 'Iterative Diagrams with Artifacts: Scrabble Case Study'
 date = 2024-09-29T18:46:29-04:00
 draft = false
 weight = 4

@@ -1,5 +1,5 @@
 +++
-title = 'Iterative Diagrams with Canvas: A Not-Exactly-Fair, Informal Scrabble Case Study'
+title = '[DRAFT] Iterative Diagrams with Canvas: An Informal Exploration'
 date = 2024-10-03T17:00:00-04:00
 draft = false
 weight = 3
@@ -99,3 +99,30 @@ There is no download button.
 
 !["scraggle11"](/img/scraggle11.png)
 
+> Increase the black outer stroke on the tiles and game board significantly, and make them dark black.
+
+- I'm almost tempted to click "Fix Bugs" before even checking the output...
+
+!["scraggle12"](/img/scraggle12.png)
+
+- Oh. Another Monkey's Paw. I'll roll this back.
+
+> Increase the black outer stroke on the tiles and game board slightly, and make them dark black. Increase the stroke on the tiles too.
+
+- Hmm. No stroke on the tiles, but ok.
+
+!["scraggle13"](/img/scraggle13.png)
+
+- A few cosmetic changes.
+
+!["scraggle14"](/img/scraggle14.png)
+
+- I'm sensing a feeling of control, it's satisfying to use this.
+
+### Pausing 
+
+I'm going to pause this exercise here, as without the ability for Canvas to render elements, *and* disregarding model capability, I think I've seen most of what this interface offers with respect to this task. 
+
+This exercise has also shown me how this interface seems to ideologically differ from Artifacts in terms of intended user behavior. 
+
+I'll write up my takeaways in a more fleshed out piece.

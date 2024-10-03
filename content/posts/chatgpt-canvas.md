@@ -61,7 +61,7 @@ There is no download button.
 
 > Add a thick black outline on the grid. Add a black star in the center square overlaid on the red.
 
-- Beautiful. 
+- Looks good. 
 
 !["scraggle5"](/img/scraggle5.png)
 

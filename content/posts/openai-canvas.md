@@ -3,7 +3,6 @@ title = 'Canvas: First Impressions and Artifacts Comparisons'
 date = 2024-10-03T18:46:29-04:00
 weight = 1
 draft = false
-cover.image = "/img/canvasicon.png"
 +++ 
 
 

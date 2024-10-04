@@ -26,7 +26,7 @@ I've explored [Claude Artifacts](https://gillandsiphon.github.io/posts/claude-ar
 
 Asking *ChatGPT 4o with canvas* to generate code generally will trigger an inline code pane that can be expanded into the Canvas panel beside the chat UI. The panel displays line numbers, and contains syntax-highlighted code that is, most importantly editable.
 
-I have a detailed, stream-of-consciousness account of my attempt at iterative diagramming with Canvas [here](https://gillandsiphon.github.io/posts/chatgpt-canvas/), but the gist of is that I lobbed it with iterative requests to generate HTML. I used the exercise as a way to understand what kind of collaboration works for code in Canvas. Although I don't think I cracked the code here, I think I did surface some initial strengths and limitations.
+I have a detailed, stream-of-consciousness account of my attempt at iterative diagramming with Canvas [here](https://gillandsiphon.github.io/posts/chatgpt-canvas/), but the gist of is that I lobbed it with iterative requests to generate HTML. I used the exercise as a way to understand what iteration and collaboration could look like in Canvas. Although I don't think I cracked the code here, I think I did surface some initial strengths and limitations.
 
 ### (Promising) Strengths
 

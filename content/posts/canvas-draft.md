@@ -5,13 +5,6 @@ draft = false
 weight = 3
 +++
 
-
-The post you're currently reading was not written in or with Canvas. 
-
-This post *is* about the process of editing an original draft with Canvas.
-
-The original draft outline that was written without Canvas is here, and the edited draft is here.
-
 ### Canvas
 
 I recently used Claude Artifacts for iterative diagramming and found it delightful. OpenAI came out with Canvas today, an interface built for collaboration within ChatGPT for code and writing. 

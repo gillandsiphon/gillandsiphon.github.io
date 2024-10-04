@@ -8,7 +8,7 @@ cover =
         image = "canvasicon.png"
     }
 +++ 
-+++
+
 
 # Canvas 
 

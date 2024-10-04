@@ -11,7 +11,7 @@ OpenAI released Canvas in beta this week, which is a new interface that allows c
 
 ### Claude's Artifacts
 
-This release is, for me, serendipitious, as I've recently been exploring Anthropic's Artifacts, which is a pretty similar feature: a dedicated pane opens up when Claude detects something artifact-able, and it's delightful for iterative work. However, Artifacts and Canvas have different strengths that make using them feel very different.
+This release is, for me, serendipitious, as I've recently been exploring Anthropic's Artifacts, which is a pretty similar feature: a dedicated pane opens up when Claude detects something artifact-able, fit for iterative work. However, Artifacts and Canvas have different strengths that make using them feel very different.
 
 ## Iterative Diagramming
 
@@ -49,3 +49,4 @@ Collaboration is by nature iterative, and iteration can take you down rabbit hol
 Canvas offers a 'Previous Version' arrow topping the Canvas panel. Clicking it allows you to toggle through versions and restore a previous one. 
 
 !["scraggle15"](/img/scraggle15.png)
+

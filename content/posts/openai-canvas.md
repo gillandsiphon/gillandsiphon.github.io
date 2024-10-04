@@ -55,4 +55,24 @@ Collaboration is by nature iterative, and iteration can take you down rabbit hol
 
  Artifacts has [several options](https://gillandsiphon.github.io/posts/claude-artifacts/#branching) for branching, rerolling, or visiting previous versions.
 
- 
+#### Buttons
+
+The code Canvas pane comes with five buttons, "Add Comments", "Add Logs", "Fix Bugs", "Port to a Language", and "Code Review". Most of these could just be accomplished with prompts before Canvas. However, I find "Fix Bugs" and "Code Review" uniquely helpful. 
+
+##### Fix Bugs
+
+Several times in creating the HTML diagrams, output was truncated or buggy. In all of those cases, hitting "Fix Bugs" fixed the bugs, and it's the kind of thing that would be prompted for so often that a button kind of makes sense to reduce friction. I like this.
+
+##### Code Review
+
+There's two things I like about "Code Review":
+
+1. After the code is generally reviewed for improvements outlined briefly in the text output, the portions that were changed are highlighted. This is really helpful, and in my opinion required in other instances, as I'll outline in the Limitations section.
+
+2. Selectable and Apply-able suggestions. I can see how a quick pass at alternative options or subtle bugs can be surfaced by inducing a code review, and the control is still with the user to decide whether or not to apply the change.
+
+!["scraggle17"](/img/scraggle17.png)
+
+##### Artifacts
+
+As far as I know, Artifacts has no detection of different 'modes' which offer prebuilt features beyond rendering documents as text and code as code.

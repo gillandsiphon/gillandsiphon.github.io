@@ -32,7 +32,7 @@ I have a detailed, stream-of-consciousness account of my attempt at iterative di
 
 #### General Editability
 
-I rarely used editablity in my process generating HTML with Canvas, and I now recnogize it's not the kind of task that necessitates notebook-like editing. But despite that, editability is a big deal: if I want to change elements in the code I can just do them painlessly inline instead of wasting tokens going through a prompt and regen or manually making edits in an editor while moving outside the UI.
+I rarely used editability in my process generating HTML with Canvas, and I now recognize it's not the kind of task that necessitates notebook-like editing. But despite that, editability is a big deal: if I want to change elements in the code I can just do them painlessly inline instead of wasting tokens going through a prompt and regen or manually making edits in an editor while moving outside the UI.
 
 ##### Targeted Editability
 
@@ -81,7 +81,7 @@ As far as I know, Artifacts has no detection of different 'modes' which offer pr
 
 #### When do I use this?
 
-I'm not really sure when I should or would use Canvas. If I'm coding, I'm doing it in an IDE. If I run into a problem, I'll tab over to ChatGPT and resolve it. I think Canvas could engulf some of those use cases: adding comments, hitting "Fix Bug" instead of basically asking for that through a prompt, maybe asking for a code review from time to time. But I'm unsure when I'd actually be editing *in* Canvas. And if I was, I'm unsure what I'd be making, especially without renderability, but even past that, I'd want to run the thing, or debug the thing, or access my data through the thing.
+I'm not really sure when I should or would use Canvas. If I'm coding, I'm doing it in an IDE. If I run into a problem, I'll tab over to ChatGPT and resolve it. I think Canvas could engulf some of those use cases: adding comments, hitting "Fix Bugs" instead of basically asking for that through a prompt, maybe asking for a code review from time to time. But I'm unsure when I'd actually be editing *in* Canvas. And if I was, I'm unsure what I'd be making, especially without renderability, but even past that, I'd want to run the thing, or debug the thing, or access my data through the thing.
 
 Maybe the audience is different? Maybe it's great for things that don't need to be rendered or ran, like practicing Leetcode questions? I'm not sure.
 
@@ -91,7 +91,7 @@ Artifacts basically gets past this with rendering, publishing and remixing, and 
 
 #### Diffs
 
-I mentioned highlighting in the Code Review section because I really want it in Versioning. Between iterations and when visiting previous instances of my code, I'd really like to know what changed in the panel. Right now, sometimes when I try to roll back from Version now to Version a-long-time-ago, I entirely lose track of where I am and what changed while I backtrack. Numbering the versions could also help, or a dropdown in the text UI where the "Added 5 comments", "Edited" action text shows.
+I mentioned highlighting in the Code Review section because I really want it in Versioning. Between iterations and when visiting previous instances of my code, I'd really like to know what changed in the panel. Right now, sometimes when I try to roll back from Version now to Version a-long-time-ago, I entirely lose track of where I am and what changed while I backtrack. Numbering the Canvas versions could also help, as could adding a toggle in the text UI to show action text more detailed than "Added 5 comments" or "Edited".
 
 
 #### Download

@@ -28,15 +28,21 @@ Asking *ChatGPT 4o with canvas* to generate code generally will trigger an inlin
 
 I have a detailed, stream-of-consciousness account of my attempt at iterative diagramming with Canvas [here](https://gillandsiphon.github.io/posts/chatgpt-canvas/), but the gist of is that I lobbed it with iterative requests to generate HTML. I used the exercise as a way to understand what kind of collaboration works for code in Canvas. Although I don't think I cracked the code here, I think I did surface some initial strengths and limitations.
 
-### Strengths
+### (Promising) Strengths
 
-#### Editability
+#### General Editability
 
 I rarely used editablity in my process generating HTML with Canvas, and I now recnogize it's not the kind of task that necessitates notebook-like editing. But despite that, editability is a big deal: if I want to change elements in the code I can just do them painlessly inline instead of wasting tokens going through a prompt and regen or manually making edits in an editor while moving outside the UI.
 
+##### Targeted Editability
+
+Specific lines of code can be asked about or prompted to be edited by selecting them in the Canvas panel and choosing the "Ask ChatGPT" option. I find it useful for explanations, and it looks promising for targeted edits, although I'm not sure what that workflow looks like or what problems would call for serious code editing in Canvas over an IDE with Copilot or a debugger.
+
+!["scraggle16"](/img/scraggle16.png)
+
 ##### Artifacts
 
-Artifacts currently doesn't have editability, and I did run into the above problems (wasting tokens, manually editing) if I needed to make small edits in code.
+Artifacts currently doesn't have editability of any kind, and I did run into the above problems (wasting tokens, manually editing) if I needed to make small edits in code.
 
 #### Branching
 
@@ -48,3 +54,5 @@ Collaboration is by nature iterative, and iteration can take you down rabbit hol
 ##### Artifacts
 
  Artifacts has [several options](https://gillandsiphon.github.io/posts/claude-artifacts/#branching) for branching, rerolling, or visiting previous versions.
+
+ 

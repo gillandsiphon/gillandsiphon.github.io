@@ -8,9 +8,9 @@ This post is marked with a '🚧', which means it is entirely informal and strea
 
 ### Canvas
 
-I recently used Claude Artifacts for iterative diagramming and found it delightful. OpenAI came out with Canvas today, an interface built for collaboration within ChatGPT for code and writing. 
+I recently used Claude Artifacts for iterative diagramming. OpenAI came out with Canvas today, an interface built for collaboration within ChatGPT for code and writing. 
 
-I started exploring Canvas for iterative diagramming just to explore, but found some of its most prominent features go unutilized in that use case.(It also doesn't render code yet). 
+I started exploring Canvas for iterative diagramming just to explore, but found some of its most prominent features go unutilized in that use case.
 
 Whereas rapid-fire dictating requests at Claude with Artifacts kind of felt right, especially since code can't be edited directly in the Artifacts pane, it didn't feel that way with Canvas. (Maybe it's a thing of model capabilities or the fact that code couldn't be rendered) So, this post is a pivot from diagramming to writing, to explore a more collaborative use case—editing a blog post in the Canvas pane.
 

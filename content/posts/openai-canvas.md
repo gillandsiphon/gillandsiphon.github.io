@@ -76,3 +76,83 @@ There's two things I like about "Code Review":
 ##### Artifacts
 
 As far as I know, Artifacts has no detection of different 'modes' which offer prebuilt features beyond rendering documents as text and code as code.
+
+### Limitations
+
+#### When do I use this?
+
+I'm not really sure when I should or would use Canvas. If I'm coding, I'm doing it in an IDE. If I run into a problem, I'll tab over to ChatGPT and resolve it. I think Canvas could engulf some of those use cases: adding comments, hitting "Fix Bug" instead of basically asking for that through a prompt, maybe asking for a code review from time to time. But I'm unsure when I'd actually be editing *in* Canvas. And if I was, I'm unsure what I'd be making, especially without renderability, but even past that, I'd want to run the thing, or debug the thing, or access my data through the thing.
+
+Maybe the audience is different? Maybe it's great for things that don't need to be rendered or ran, like practicing Leetcode questions? I'm not sure.
+
+##### Artifacts
+
+Artifacts basically gets past this with rendering, publishing and remixing, and not offering editability. I think it's a hard problem to figure out how editability works for most people in the web browser.
+
+#### Diffs
+
+I mentioned highlighting in the Code Review section because I really want it in Versioning. Between iterations and when visiting previous instances of my code, I'd really like to know what changed in the panel. Right now, sometimes when I try to roll back from Version now to Version a-long-time-ago, I entirely lose track of where I am and what changed while I backtrack. Numbering the versions could also help, or a dropdown in the text UI where the "Added 5 comments", "Edited" action text shows.
+
+
+#### Download
+
+As there's no renderability yet (but even if there was), a download button would be useful.
+
+## Writing
+
+The second mode Canvas can detect right now is writing. To explore the writing mode, I attempted to revise a blog post draft and see what kind of workflow arises.
+
+### Strengths
+
+#### The Pane Itself
+
+It's just really nice to see documents in this separate pane. It's one of the nicest things about Artifacts, and I'm glad to have it here too.
+
+#### General Editability
+
+Editability in the writing Canvas pane seems like a big unlock. The UI comes to resemble a word processor. That being said, I struggle to fit it into a workflow for a few reasons I'll detail in the Limitations section.
+
+#### Targeted Editability
+
+Targeted editability is really important too, as I wouldn't want my earlier words to be changed if I'm just looking to improve the syntax on one awkward sentence. More on this in Limitations.
+
+#### Buttons
+
+As in the code pane, the writing pane has the buttons "Add Emojis", "Add Final Polish", "Reading Level", "Adjust the Length", "Suggest Edits". Of these, again, most could have been accomplished by a prompt, although clicking a button is way easier. However, for the same reasons as "Code Review" (highlighting and discretion to apply suggestions), "Suggest Edits" is great. 
+
+### Limitations
+
+#### When do I use this?
+
+I do sometimes bring in writings into ChatGPT or Claude—maybe they're a tricky situation with the landlord or an email where it's tough to land somewhere between casual and formal. In most of those cases, the text is plopped into the chat and commented on, with an entirely new output. I can see all of these cases thrive with LLMs, with or without Canvas. Shorten an iMessage to the property manager, fix up an extension request before you send it to your professor, polish an email to your dermatologist and so on.
+
+
+But there are other writings that I work on, more longform, more serious, that I don't really edit with models. Canvas editability seems to offer a glimmer of possibility here, but some of the following limitations stopped me from discovering the right use case and workflow.
+
+#### Diffs/Redlines
+
+As with code, I think keeping track of changes is even more important with writing. Code may not run if you change something, but I would feel pretty rough if a sentence in my second paragraph was changed without knowing. I think keeping track of changes made in both versioning and instances where I'm accepting edit suggestions, or adding a conclusion through the text UI would be helpful.
+
+#### System Prompt is Reflected
+
+I passed in a blog draft and asked for it to be cleaned up. My global custom instructions tell ChatGPT to be very casual, and the system opted for a general rewrite that adhered to those custom instructions. I would love for custom instructions to either be ignored for Canvas, or for separate Canvas instructions to be written.
+
+#### Full Rewrite Trigger
+
+The release post mentions the difference between a [general rewrite and a targeted edit trigger](https://openai.com/index/introducing-canvas/), and although I asked for ChatGPT to clean up my draft, which triggered a general rewrite, I wasn't prepared for how it felt when I was not able to induce my original text into the Canvas pane in that chat instance.
+
+#### Word Processor Muscle Memory
+
+I found myself hitting CTRL-Z to roll back edits, but that didn't work. 
+
+#### Action Display
+
+So far, I've seen all action displays above the text prompt say "Edited". It would be nice if this were more detailed. 
+
+#### Asking to Add a Conclusion
+
+I asked for a conclusion to be added to my incomplete draft, but I didn't want my earlier work to be changed, but could not be sure that it would not. I wonder if the text contained in the Canvas is stored and displayed separate from the chat context? I am wondering if there are technical ways to ensure that other areas are not changed by leaving them out of the text generated in a chatcompletion (?) instance.
+
+### Conclusion
+
+It's cool to see the UI evolve, from both OpenAI and Anthropic, and see how different use cases and workflows are discovered. I'm interested to see what kinds of audiences find what kinds of use cases unlocked by these features.

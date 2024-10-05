@@ -10,10 +10,6 @@ include = "img"
   [params.homeInfoParams]
     Title = "Posts"
 
-[services]
-  [services.googleAnalytics]
-    ID = 'G-Y8NWFFJ8X4'
-
 [params.assets]
 favicon = "favicon.ico"
 favicon16x16 = "favicon-16x16.png"

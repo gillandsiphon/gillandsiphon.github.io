@@ -13,4 +13,3 @@ To start exploring how models perform on a word association problem, I've define
 
 Task: Given a clueword and four board words, select the two target words of the four board words that relate to the clue. Selections are made one word at a time. The task ends when either an unrelated word is selected, or both target words are chosen.
 
-!["word2"](/img/word2.png)

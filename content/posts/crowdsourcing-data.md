@@ -9,7 +9,7 @@ This toy problem has two objectives: to act as an exercise for crowdsourcing dat
 
 ### Task Definition
 
-To start exploring how models perform on a word association task, I've defined a simple task: 
+To start exploring how models perform on word association, I've defined a simple task: 
 
 !["word1"](/img/word1.png)
 

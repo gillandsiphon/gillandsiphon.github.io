@@ -78,7 +78,7 @@ Examples:
 Remember, the quality of the clue is crucial. Take your time to think through the options carefully before providing your answer for the given board setup.
 ```
 
-I didn't use structured output, and instead manually populated the database with the model's generated clue. The reasoning was discarded, but remains as an interesting artifact for future inspection.
+I didn't use structured output, and instead manually assembled the csv that populated the database with the model's generated clue. The reasoning was discarded, but remains as an interesting artifact for future inspection.
 
 #### Human Clue
 

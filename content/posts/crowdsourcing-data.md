@@ -5,7 +5,8 @@ draft = false
 weight = 1
 +++
 
-This toy problem has two objectives: to act as an exercise for crowdsourcing data, and to evaluate model performance on a word association task.
+This toy problem has two objectives: to act as an exercise for crowdsourcing data [(here!)](https://gillandsiphon.pythonanywhere.com/.
+)), and to evaluate model performance on a word association task.
 
 ### Task Definition
 

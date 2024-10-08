@@ -1,6 +1,6 @@
 +++
 title = 'Crowdsourcing Data for a Clue Generation Task'
-date = 2024-10-8T18:46:29-04:00
+date = 2024-10-08T17:00:00-04:00
 draft = false
 weight = 1
 +++

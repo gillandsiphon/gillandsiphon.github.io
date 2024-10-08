@@ -24,6 +24,9 @@ To generate the tasks, I use the [wordlist from *Codenames*](https://github.com/
 
 I generated 10 of these problems.
 
+{{< figure src="/img/word2.png" caption="One formulation of the task with correct answers revealed." >}}
+
+
 ### Generating Clues with Models
 
 Each model was given the following prompt:

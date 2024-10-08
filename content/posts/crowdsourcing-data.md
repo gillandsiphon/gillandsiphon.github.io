@@ -1,5 +1,5 @@
 +++
-title = '🚧 Crowdsourcing Data for a Word Association Task'
+title = '🚧 Crowdsourcing Data for a Clue Generation Task'
 date = 2024-09-29T18:46:29-04:00
 draft = false
 weight = 1
@@ -9,7 +9,7 @@ This toy problem has two objectives: to act as an exercise for crowdsourcing dat
 
 ### Task Definition
 
-To start exploring how models perform on word association, I've defined a simple task: 
+To start exploring how models perform on a word association problem (clue generation), I've defined a simple task: 
 
 !["word1"](/img/word1.png)
 

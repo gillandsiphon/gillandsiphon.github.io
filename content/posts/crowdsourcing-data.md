@@ -34,7 +34,7 @@ Each model was given the following prompt:
 ```
 You are an AI assistant specialized in generating clues for the game Codenames. Your task is to create a single-word clue that connects two target words while avoiding any connection to other words on the board.
 
-#### Prompt: 
+Prompt: 
 
 Game Context:
 - Codenames is a word-guessing game where players give one-word clues to help their teammates identify specific words on a board.

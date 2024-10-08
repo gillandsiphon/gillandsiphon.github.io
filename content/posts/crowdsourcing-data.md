@@ -13,8 +13,6 @@ To start exploring how models perform on word association, I've defined a simple
 
 !["word1"](/img/word1.png)
 
-#### Clue-giving
-
 > **Task**: Given two target words and two other words, generate a clue that relates to the two target words but does not relate to the two other words.
 
 ### Generating Tasks

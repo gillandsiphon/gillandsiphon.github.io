@@ -9,11 +9,13 @@ This toy problem has two objectives: to act as an exercise for crowdsourcing dat
 
 ### Task Definition
 
-To start exploring how models perform on a word association problem, I've defined a simple task: 
+To start exploring how models perform on a word association task, I've defined a simple task: 
 
 !["word1"](/img/word1.png)
 
-> **Task**: Given two target words and two other words, generate a clue that relates to the two target words without implicating the two other words.
+#### Clue-giving
+
+> **Task**: Given two target words and two other words, generate a clue that relates to the two target words but does not relate to the two other words.
 
 ### Generating Tasks
 
@@ -21,13 +23,13 @@ This task bears resemblance to the [Remote Associates Test]("https://www.remote-
 
 To generate the tasks, I use the [wordlist from *Codenames*](https://github.com/Gullesnuffs/Codenames/blob/master/wordlist-eng.txt) to randomly generate 2x2 board grids, as the wordlist has properties (such as generally, polysemanticity) I wish to retain for this evaluation. I then randomly assign two of the words to be target words.
 
-I generate 25 board states with 2 target words chosen.
+I generated 10 of these problems.
 
 ### Generating Clues with Models
 
 Each model was given the following prompt:
 
-You are an AI assistant specialized in generating clues for the game Codenames. Your task is to create a single-word clue that connects two target words while avoiding any connection to other words on the board.
+```You are an AI assistant specialized in generating clues for the game Codenames. Your task is to create a single-word clue that connects two target words while avoiding any connection to other words on the board.
 
 #### Prompt: 
 
@@ -66,7 +68,7 @@ Examples:
     Clue: Silkworm
     Explanation: "Silkworm" relates to both spider and web as it is an insect that generates a silk lattice, kind of like a web. Letter and keyboard don't relate.
 
-Remember, the quality of the clue is crucial. Take your time to think through the options carefully before providing your answer for the given board setup.
+Remember, the quality of the clue is crucial. Take your time to think through the options carefully before providing your answer for the given board setup.```
 
 
 #### Human Clue

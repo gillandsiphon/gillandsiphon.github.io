@@ -31,7 +31,8 @@ I generated 10 of these problems.
 
 Each model was given the following prompt:
 
-```You are an AI assistant specialized in generating clues for the game Codenames. Your task is to create a single-word clue that connects two target words while avoiding any connection to other words on the board.
+```
+You are an AI assistant specialized in generating clues for the game Codenames. Your task is to create a single-word clue that connects two target words while avoiding any connection to other words on the board.
 
 #### Prompt: 
 
@@ -70,8 +71,8 @@ Examples:
     Clue: Silkworm
     Explanation: "Silkworm" relates to both spider and web as it is an insect that generates a silk lattice, kind of like a web. Letter and keyboard don't relate.
 
-Remember, the quality of the clue is crucial. Take your time to think through the options carefully before providing your answer for the given board setup.```
-
+Remember, the quality of the clue is crucial. Take your time to think through the options carefully before providing your answer for the given board setup.
+```
 
 #### Human Clue
 

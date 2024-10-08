@@ -15,9 +15,10 @@ To start exploring how models perform on word association, I've defined a simple
 
 > **Task**: Given two target words and two other words, generate a clue that relates to the two target words but does not relate to the two other words.
 
-### Generating Tasks
-
 This task bears resemblance to the [Remote Associates Test]("https://www.remote-associates-test.com/") and the [NYT game Connections](https://www.nytimes.com/games/connections), and is a subproblem of the word association game [*Codenames*](https://gillandsiphon.github.io/posts/codenames-primer/). 
+
+
+### Generating Tasks
 
 To generate the tasks, I use the [wordlist from *Codenames*](https://github.com/Gullesnuffs/Codenames/blob/master/wordlist-eng.txt) to randomly generate 2x2 board grids, as the wordlist has properties (such as generally, polysemanticity) I wish to retain for this evaluation. I then randomly assign two of the words to be target words.
 

@@ -13,7 +13,7 @@ I am currently crowdsourcing data to evaluate model performance on a clue genera
 
 The task is defined as generating a clueword which relates two target words but not two other words (see Figures or see [here](https://gillandsiphon.github.io/posts/crowdsourcing-data/) for detail). This exercise tests the performance of gpt-3.5, gpt-4o, o1-mini, o1-preview, llama-405b-turbo-instruct, and human performance on this task.
 
-10 problems are produced per model, and deployed on a site which serves one of the 60 tasks randomly. The user has the option to skip to the next question, which will record the question as being incomplete unless completed later.
+10 problems are produced per model, and deployed on a site which serves one of the 60 tasks randomly. The user has the option to skip to the next question.
 
 !["word2"](/img/word2.png)
 

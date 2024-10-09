@@ -5,13 +5,13 @@ draft = false
 weight = 1
 +++
 
-I am currently crowdsourcing data to evaluate model performance on a clue generation task. Details of the task are outlined in some detail [here](), but in short: I designed clue generation tasks and had five LLMs, as well as one human (me), generate clues for each task. I built and deployed a site that will present participants tasks and record participant guesses. The goal is to evaluate model clue-giving performance on this task.
+I am currently crowdsourcing data to evaluate model performance on a clue generation task. Details of the task are outlined in some detail [here](https://gillandsiphon.github.io/posts/crowdsourcing-data/), but in short: I designed clue generation tasks and had five LLMs, as well as one human (me), generate clues for each task. I built and deployed a site that will present participants tasks and record participant guesses. The goal is to evaluate model clue-giving performance on this task.
 
 !["word1"](/img/word1.png)
 
 ### Extremely Short Recap
 
-The task is defined as generating a clueword which relates two target words but not two other words (see Figures or see [here]() for detail). This exercise tests the performance of gpt-3.5, gpt-4o, o1-mini, o1-preview, llama-405b-turbo-instruct, and human performance on this task.
+The task is defined as generating a clueword which relates two target words but not two other words (see Figures or see [here](https://gillandsiphon.github.io/posts/crowdsourcing-data/) for detail). This exercise tests the performance of gpt-3.5, gpt-4o, o1-mini, o1-preview, llama-405b-turbo-instruct, and human performance on this task.
 
 10 problems are produced per model, and deployed on a site which serves one of the 60 tasks randomly. The user has the option to skip to the next question, which will record the question as being incomplete unless completed later.
 

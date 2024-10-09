@@ -22,5 +22,10 @@ As 10 problems are produced per model, the site serves one of 60 tasks randomly.
 
 !["word2"](/img/word2.png)
 
+### Results
 
+After some basic processing to isolate valid data, I have **450** task instances recorded, across 44 unique users. 
 
+Most users answered a single-digit amount of questions (median 7). Although in some experimental designs it may make sense to discard unique users that do not meet some threshold, I think in this case, task instances from users who answered a low amount of questions are still meaningful.
+
+{{< figure src="/img/word6png" caption="I recruited two friends to answer all 60 questions, explaining those outliers." >}}

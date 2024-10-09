@@ -22,7 +22,7 @@ The task is defined as generating a clueword which relates two target words but 
 
 I deployed a site using Flask on PythonAnywhere. I used SQLite to store the results. As a blunt defense against vote manipulation, a uuid is assigned to each new user, stored in the Flask session.
 
-!["word5"](/img/word5.png)
+!["word5"](/img/word5.PNG)
 
 ### Recruiting
 

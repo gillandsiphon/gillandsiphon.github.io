@@ -1,5 +1,5 @@
 +++
-title = '🚧 Casual Analysis of Crowdsourced Data for Clue Generation'
+title = 'Casual Analysis of Crowdsourced Data for Clue Generation'
 date = 2024-09-29T18:46:29-04:00
 draft = false
 weight = 1

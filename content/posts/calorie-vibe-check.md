@@ -69,28 +69,28 @@ Remember, the goal is to provide the most accurate integer estimate possible bas
 ### Get Results
 | Food_Item                         |   Ground_Truth_Calories |   Estimated_Calories |   Error |   Percent_Error |
 |:----------------------------------|------------------------:|---------------------:|--------:|----------------:|
-| 1 large cooked egg                |                      78 |                   78 |       0 |        0        |
-| 1 cup cooked chicken breast diced |                     242 |                  240 |      -2 |        0.826446 |
-| 1 cup cooked white rice           |                     205 |                  205 |       0 |        0        |
-| 1 tablespoon butter               |                     102 |                  102 |       0 |        0        |
-| 1 medium apple                    |                      95 |                   95 |       0 |        0        |
-| 1 slice whole wheat bread         |                      91 |                   80 |     -11 |       12.0879   |
-| 2 tablespoons peanut butter       |                     193 |                  195 |       2 |        1.03627  |
-| 1 cup whole milk                  |                     149 |                  150 |       1 |        0.671141 |
-| 1 medium banana                   |                     105 |                  105 |       0 |        0        |
-| 3 oz grilled salmon fillet        |                     155 |                  177 |      22 |       14.1935   |
-| 1/2 cup cooked broccoli           |                      17 |                   28 |      11 |       64.7059   |
-| 1 cup cooked pasta                |                     209 |                  210 |       1 |        0.478469 |
-| 1 oz almonds                      |                     164 |                  164 |       0 |        0        |
-| 1 tablespoon olive oil            |                     119 |                  126 |       7 |        5.88235  |
-| 1 medium baked potato             |                     164 |                  161 |      -3 |        1.82927  |
-| 1/2 cup vanilla ice cream         |                     137 |                  140 |       3 |        2.18978  |
-| 1 cup plain Greek yogurt          |                     145 |                  150 |       5 |        3.44828  |
-| 2 slices of bacon                 |                      75 |                   86 |      11 |       14.6667   |
-| 1 cup mixed green salad           |                       8 |                   10 |       2 |       25        |
-| 1 tablespoon ranch dressing       |                      67 |                   70 |       3 |        4.47761  |
-| 1 medium avocado                  |                     227 |                  240 |      13 |        5.72687  |
-| 1 cup cooked quinoa               |                     222 |                  222 |       0 |        0        |
-| 1 oz cheddar cheese               |                     115 |                  115 |       0 |        0        |
-| 1 large orange                    |                      86 |                   87 |       1 |        1.16279  |
-| 1 cup black beans cooked          |                     241 |                  230 |     -11 |        4.56432  |
+| 1 large cooked egg                |                      78 |                   78 |       0 |            0    |
+| 1 cup cooked chicken breast diced |                     242 |                  240 |      -2 |            0.83 |
+| 1 cup cooked white rice           |                     205 |                  205 |       0 |            0    |
+| 1 tablespoon butter               |                     102 |                  102 |       0 |            0    |
+| 1 medium apple                    |                      95 |                   95 |       0 |            0    |
+| 1 slice whole wheat bread         |                      91 |                   80 |     -11 |           12.09 |
+| 2 tablespoons peanut butter       |                     193 |                  195 |       2 |            1.04 |
+| 1 cup whole milk                  |                     149 |                  150 |       1 |            0.67 |
+| 1 medium banana                   |                     105 |                  105 |       0 |            0    |
+| 3 oz grilled salmon fillet        |                     155 |                  177 |      22 |           14.19 |
+| 1/2 cup cooked broccoli           |                      17 |                   27 |      10 |           58.82 |
+| 1 cup cooked pasta                |                     209 |                  210 |       1 |            0.48 |
+| 1 oz almonds                      |                     164 |                  164 |       0 |            0    |
+| 1 tablespoon olive oil            |                     119 |                  126 |       7 |            5.88 |
+| 1 medium baked potato             |                     164 |                  140 |     -24 |           14.63 |
+| 1/2 cup vanilla ice cream         |                     137 |                  140 |       3 |            2.19 |
+| 1 cup plain Greek yogurt          |                     145 |                  150 |       5 |            3.45 |
+| 2 slices of bacon                 |                      75 |                   86 |      11 |           14.67 |
+| 1 cup mixed green salad           |                       8 |                   10 |       2 |           25    |
+| 1 tablespoon ranch dressing       |                      67 |                   70 |       3 |            4.48 |
+| 1 medium avocado                  |                     227 |                  240 |      13 |            5.73 |
+| 1 cup cooked quinoa               |                     222 |                  222 |       0 |            0    |
+| 1 oz cheddar cheese               |                     115 |                  115 |       0 |            0    |
+| 1 large orange                    |                      86 |                   87 |       1 |            1.16 |
+| 1 cup black beans cooked          |                     241 |                  230 |     -11 |            4.56 |

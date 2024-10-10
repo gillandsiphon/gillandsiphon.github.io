@@ -82,22 +82,22 @@ Claude does very well. The below chart is flawed: more in discussion.
 | 🥜 2 tablespoons peanut butter       |                     193 |                  195 |       2 |            1.04 |
 | 🥛 1 cup whole milk                  |                     149 |                  150 |       1 |            0.67 |
 | 🍌1 medium banana                   |                     105 |                  105 |       0 |            0    |
-| 3 oz grilled salmon fillet        |                     155 |                  177 |      22 |           14.19 |
-| 1/2 cup cooked broccoli           |                      17 |                   27 |      10 |           58.82 |
-| 1 cup cooked pasta                |                     209 |                  210 |       1 |            0.48 |
-| 1 oz almonds                      |                     164 |                  164 |       0 |            0    |
-| 1 tablespoon olive oil            |                     119 |                  126 |       7 |            5.88 |
-| 1 medium baked potato             |                     164 |                  140 |     -24 |           14.63 |
-| 1/2 cup vanilla ice cream         |                     137 |                  140 |       3 |            2.19 |
-| 1 cup plain Greek yogurt          |                     145 |                  150 |       5 |            3.45 |
-| 2 slices of bacon                 |                      75 |                   86 |      11 |           14.67 |
-| 1 cup mixed green salad           |                       8 |                   10 |       2 |           25    |
-| 1 tablespoon ranch dressing       |                      67 |                   70 |       3 |            4.48 |
-| 1 medium avocado                  |                     227 |                  240 |      13 |            5.73 |
-| 1 cup cooked quinoa               |                     222 |                  222 |       0 |            0    |
-| 1 oz cheddar cheese               |                     115 |                  115 |       0 |            0    |
-| 1 large orange                    |                      86 |                   87 |       1 |            1.16 |
-| 1 cup black beans cooked          |                     241 |                  230 |     -11 |            4.56 |
+| 🐟 3 oz grilled salmon fillet        |                     155 |                  177 |      22 |           14.19 |
+| 🥦 1/2 cup cooked broccoli           |                      17 |                   27 |      10 |           58.82 |
+| 🍝 1 cup cooked pasta                |                     209 |                  210 |       1 |            0.48 |
+| 🥜 1 oz almonds                      |                     164 |                  164 |       0 |            0    |
+| 🍾 1 tablespoon olive oil            |                     119 |                  126 |       7 |            5.88 |
+| 🥔 1 medium baked potato             |                     164 |                  140 |     -24 |           14.63 |
+| 🍦 1/2 cup vanilla ice cream         |                     137 |                  140 |       3 |            2.19 |
+| 🥣 1 cup plain Greek yogurt          |                     145 |                  150 |       5 |            3.45 |
+| 🥓 2 slices of bacon                 |                      75 |                   86 |      11 |           14.67 |
+| 🥗 1 cup mixed green salad           |                       8 |                   10 |       2 |           25    |
+| 🥄 1 tablespoon ranch dressing       |                      67 |                   70 |       3 |            4.48 |
+| 🥑 1 medium avocado                  |                     227 |                  240 |      13 |            5.73 |
+| 🥘 1 cup cooked quinoa               |                     222 |                  222 |       0 |            0    |
+| 🧀 1 oz cheddar cheese               |                     115 |                  115 |       0 |            0    |
+| 🍊 1 large orange                    |                      86 |                   87 |       1 |            1.16 |
+| 🥫 1 cup black beans cooked          |                     241 |                  230 |     -11 |            4.56 |
 
 ### Discussion
 

@@ -7,7 +7,7 @@ weight = 1
 
 🐁 This is a 100 minute time-constrained mini-project (speedrun), so this is very informal!
 
-### Coarse Calorie Counting
+## Coarse Calorie Counting
 
 To what extent can current LLMs estimate calorie counts? Rather than a formal evaluation, this is a vibe check to explore Claude's performance on returning calorie estimates. 
 
@@ -35,7 +35,7 @@ I use a calorie counter app called [Cronometer](https://cronometer.com/) to trac
 
 I manually input the food items with ground truth in a csv and then processed in Python.
 
-### Claude Counter
+### Prompt
 
 I haven't played with JSON adherency or eliciting structured outputs with Claude, so I'll instruct Claude to output a calorie count integer between tags and extract them out.
 
@@ -73,15 +73,15 @@ Claude does very well. The below chart is flawed: more in discussion.
 
 | Food_Item                         |   Ground_Truth_Calories |   Estimated_Calories |   Error |   Percent_Error |
 |:----------------------------------|------------------------:|---------------------:|--------:|----------------:|
-| 1 large cooked egg                |                      78 |                   78 |       0 |            0    |
-| 1 cup cooked chicken breast diced |                     242 |                  240 |      -2 |            0.83 |
-| 1 cup cooked white rice           |                     205 |                  205 |       0 |            0    |
-| 1 tablespoon butter               |                     102 |                  102 |       0 |            0    |
-| 1 medium apple                    |                      95 |                   95 |       0 |            0    |
-| 1 slice whole wheat bread         |                      91 |                   80 |     -11 |           12.09 |
-| 2 tablespoons peanut butter       |                     193 |                  195 |       2 |            1.04 |
-| 1 cup whole milk                  |                     149 |                  150 |       1 |            0.67 |
-| 1 medium banana                   |                     105 |                  105 |       0 |            0    |
+| 🍳 1 large cooked egg                |                      78 |                   78 |       0 |            0    |
+| 🍗 1 cup cooked chicken breast diced |                     242 |                  240 |      -2 |            0.83 |
+| 🍚 1 cup cooked white rice           |                     205 |                  205 |       0 |            0    |
+| 🧈 1 tablespoon butter               |                     102 |                  102 |       0 |            0    |
+| 🍎 1 medium apple                    |                      95 |                   95 |       0 |            0    |
+| 🍞 1 slice whole wheat bread         |                      91 |                   80 |     -11 |           12.09 |
+| 🥜 2 tablespoons peanut butter       |                     193 |                  195 |       2 |            1.04 |
+| 🥛 1 cup whole milk                  |                     149 |                  150 |       1 |            0.67 |
+| 🍌1 medium banana                   |                     105 |                  105 |       0 |            0    |
 | 3 oz grilled salmon fillet        |                     155 |                  177 |      22 |           14.19 |
 | 1/2 cup cooked broccoli           |                      17 |                   27 |      10 |           58.82 |
 | 1 cup cooked pasta                |                     209 |                  210 |       1 |            0.48 |

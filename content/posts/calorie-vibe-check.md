@@ -5,7 +5,7 @@ draft = false
 weight = 1
 +++
 
-🐁 This is a 100 minute time-constrained mini-project (speedrun), so this is very informal!
+🐁 This is a ~100 minute time-constrained mini-project (speedrun), so this is very informal!
 
 ## Coarse Calorie Counting
 
@@ -105,4 +105,4 @@ Claude does very well. The below chart is flawed: more in discussion.
 
 ### Conclusion
 
-Claude does well with returning calorie estimates, and specifically well for common, popular foods measured in single, standard units.
+Claude does well with returning calorie estimates for common, popular foods measured in single, standard units.

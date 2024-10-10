@@ -19,7 +19,7 @@ I was inspired to do this mini-project after reading [@AvitalBalwit's How I Use 
 
 I'll use Claude 3.5 via the API to make this assessment in this mini-project.
 
-I'll also separately use Claude UI to help me with some of the boilerplate and grunt work required to do this mini-project. 
+I'll also separately use the Claude UI to help me with some of the boilerplate and grunt work required to do this mini-project. 
 
 ### Generate Test Food Items
 

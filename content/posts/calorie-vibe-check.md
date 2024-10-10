@@ -67,6 +67,10 @@ Remember, the goal is to provide the most accurate integer estimate possible bas
 ```
 
 ### Get Results
+
+Claude does very well. The below chart is flawed: more in discussion.
+
+
 | Food_Item                         |   Ground_Truth_Calories |   Estimated_Calories |   Error |   Percent_Error |
 |:----------------------------------|------------------------:|---------------------:|--------:|----------------:|
 | 1 large cooked egg                |                      78 |                   78 |       0 |            0    |
@@ -94,3 +98,11 @@ Remember, the goal is to provide the most accurate integer estimate possible bas
 | 1 oz cheddar cheese               |                     115 |                  115 |       0 |            0    |
 | 1 large orange                    |                      86 |                   87 |       1 |            1.16 |
 | 1 cup black beans cooked          |                     241 |                  230 |     -11 |            4.56 |
+
+### Discussion
+
+3.5 Sonnet does very well—Claude seems to 'know' the standard calorie amounts set by the authority Cronometer and other calorie counters use for their data. The cases where Claude has an error, are contentious: for some foods, Cronometer allowed a 1:1 choice for the food_item cell, like "Cooked egg, large, 1". For others, not so: "1 slice whole wheat bread" gave the choices of "storebought" or "homemade/bakery", and within those choices slice sizes. These specificities were chosen arbitrarily by me, which to me, explains away some of the error. 🚩 For broccoli as another example specifically, Claude returns 27 calories, which is *correct* for the amount of *chopped* broccoli, and not *whole pieces*, an arbitrary assumption by me. 
+
+### Conclusion
+
+Claude does well with returning calorie estimates, and specifically well for common, popular foods measured in single, standard units.

@@ -9,7 +9,7 @@ weight = 1
 
 ### Coarse Calorie Counting
 
-To what extent can current LLMs  estimate calorie counts? Rather than a formal evaluation, this is a vibe check to see if Claude can coarsely return approximate estimates. 
+To what extent can current LLMs estimate calorie counts? Rather than a formal evaluation, this is a vibe check to explore Claude's performance on returning calorie estimates. 
 
 {{< figure src="/img/calorie1.PNG" caption="The Humane Ai Pin video (attempting to) measure the amount of protein in a handful of almonds." >}}
 

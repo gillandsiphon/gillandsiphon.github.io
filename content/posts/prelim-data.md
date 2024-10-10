@@ -22,8 +22,6 @@ The task is defined as generating a clueword which relates two target words but 
 
 I deployed a site using Flask on PythonAnywhere. I used SQLite to store the results. As a blunt defense against vote manipulation, a uuid is assigned to each new user, stored in the Flask session.
 
-!["word5"](/img/word5.png)
-
 ### Recruiting
 
 I solicited answers to these tasks by posting to various online spaces: Reddit, X, and Discord communities. Additionally, I recruited two of my friends to complete all 60 questions.

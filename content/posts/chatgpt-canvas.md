@@ -1,7 +1,7 @@
 +++
 title = '🚧 Iterative Diagrams with Canvas: An Informal Exploration'
 date = 2024-10-03T17:00:00-04:00
-draft = false
+draft = true
 +++
 
 This post is marked with a '🚧', which means it is entirely informal and stream-of-consciousness. It may not make any sense without being linked to with context.

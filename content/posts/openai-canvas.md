@@ -2,7 +2,7 @@
 title = 'Canvas: First Impressions and Artifacts Comparisons'
 date = 2024-10-03T18:46:29-04:00
 weight = 2
-draft = false
+draft = true
 +++ 
 
 
